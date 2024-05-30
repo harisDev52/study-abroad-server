@@ -8,9 +8,8 @@ from bson.objectid import ObjectId
 
 bcrypt = Bcrypt()
 
-
 def init_auth_routes(app):
-    @app.route('/register', methods=['POST', 'OPTIONS'])
+    @app.route('/register', methods=['POST'])
     def register():
         data = request.get_json()
         hashed_password = bcrypt.generate_password_hash(
@@ -25,7 +24,7 @@ def init_auth_routes(app):
         result = db.users.insert_one(user)
         return jsonify({'message': 'User registered successfully', 'user_id': str(result.inserted_id)}), 201
 
-    @app.route('/login', methods=['POST', 'OPTIONS'])
+    @app.route('/login', methods=['POST'])
     def login():
         data = request.get_json()
         user = db.users.find_one({'email': data['email']})
