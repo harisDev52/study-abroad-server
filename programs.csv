@@ -1,0 +1,2001 @@
+id,domain,duration,university,fees,cgpa,ielts,independent_scholarship,university_scholarship
+1,Global Master of Business Administration,24,University of Hull,6000,2.2,0,0,0
+2,Business Analytics,12,Queen Mary University of London,31850,2.1,7,1,1
+3,Cyber Security and Digital Forensics,24,University of Portsmouth,10500,2.2,6,0,0
+4,Medical Ultrasound,36,University of the West of England (UWE Bristol),1400,1,6.5,1,1
+5,Applied Economics (Banking and Financial Markets) online,30,University of Bath Online,5200,2.2,6.5,1,1
+6,Photography,24,Falmouth University Flexible Learning,6075,0,6.5,0,1
+7,Dental Materials,12,Queen Mary University of London,28900,2.2,6.5,1,1
+8,International Banking and Finance Law,12,University of the West of England (UWE Bristol),15500,2.2,6.5,0,1
+9,Business with Marketing,12,Warwick Business School,32250,2.1,7,0,1
+10,Photography,24,Arts University Bournemouth,9900,2.2,0,1,0
+11,Supply Chain Management,24,University of Central Lancashire (UCLan),4274,2.2,0,0,0
+12,Global Financial Management,12,University of Roehampton,17850,2.1,6.5,0,1
+13,Marketing,9,The University of Exeter,29500,2.2,7,1,1
+14,Digital Marketing,12,Queen Mary University of London,31850,2.1,7,1,0
+15,Curating,12,University of the West of England (UWE Bristol),16000,0,0,0,1
+16,Business Analytics online,27,University of Bath Online,6666,2.2,7,1,1
+17,Business Analytics,12,Warwick Business School,33000,2.1,7,1,1
+18,Commercial Law,12,University of the West of England (UWE Bristol),15500,2.2,6.5,0,1
+19,Creative Writing,24,Arts University Bournemouth,9900,2.2,0,1,1
+20,International Marketing and Consumer Psychology,12,Queen Mary University of London,31850,2.1,7,1,0
+21,Project Management for Construction,24,University of Portsmouth,10500,0,0,0,1
+22,Healthcare Leadership,24,University of Hull,4900,2.2,6,0,1
+23,Business Analytics,12,The University of Exeter,29500,2.1,6.5,0,1
+24,Building Information Modelling (BIM) in Design Construction and Operations,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,0
+25,Supply Chain and Logistics Analytics,12,Queen Mary University of London,31850,2.1,7,1,1
+26,Marketing and Strategy,12,Warwick Business School,32250,2.1,7,1,1
+27,Master of Business Administration,12,London Metropolitan University,18150,2.2,6,0,1
+28,Cyber Security,12,University of Roehampton,17325,2.2,6.5,1,1
+29,Logistics and Supply Chain Management,24,University of Hull,4900,2.2,6,1,0
+30,Commercial Law,12,The University of Exeter,24300,2.2,6.5,0,1
+31,Applied Public Health,24,University of Central Lancashire (UCLan),4274,2.2,6.5,0,1
+32,Accounting and Finance,12,Warwick Business School,38000,2.1,7,0,1
+33,Nursing,24,University of Central Lancashire (UCLan),4150,0,0,0,0
+34,Project Management,12,University of Roehampton,17325,0,6.5,0,1
+35,Management,12,Warwick Business School,33800,2.1,7,0,0
+36,Accounting,12,Edinburgh Napier University,17090,0,6,1,0
+37,"Risk, Crisis and Resilience Management",24,University of Portsmouth,11250,2.2,6.5,1,1
+38,International Management,12,University of the West of England (UWE Bristol),16750,2.2,6.5,1,0
+39,Master of Business Administration with placement year,12,University of Roehampton,18900,2.1,6.5,0,1
+40,Computer Science online,27,University of Bath Online,5777,2.2,6.5,1,0
+41,International Trade and Economic Law,12,University of the West of England (UWE Bristol),15500,2.2,6.5,1,0
+42,Construction Project Management,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,0
+43,International Financial Management,12,Queen Mary University of London,28900,2.1,7,1,1
+44,Data Analytics,24,University of Portsmouth,9400,2.2,6,1,0
+45,Creative Writing,24,University of Hull,5300,2.2,6,0,1
+46,Actuarial Science and Data Analytics,12,Queen Mary University of London,31850,2.1,0,0,1
+47,Environmental Analytics,12,Queen Mary University of London,31850,2.1,0,1,1
+48,Data Literacy for Social and Environmental Justice (Online),36,University of St Andrews,6000,2.1,7,0,0
+49,Education (part-time distance learning 3 years),36,University of the West of England (UWE Bristol),0,0,0,1,0
+50,Financial Mathematics,12,Queen Mary University of London,29950,2.1,6.5,0,1
+51,Engineering Management,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,0
+52,Marketing and the Creative Industries,12,Queen Mary University of London,31850,2.1,7,0,1
+53,International Human Resource Management,12,Queen Mary University of London,31850,2.1,7,0,0
+54,"Dental Public Health, Policy and Leadership (Online)",21,Queen Mary University of London,8850,2.1,6.5,0,1
+55,Psychology,24,University of Portsmouth,9400,2.2,6.5,0,1
+56,Computing,12,University of Roehampton,17325,2.2,6.5,0,0
+57,Dental Science for Clinical Practice,12,Queen Mary University of London,40250,0,6.5,1,0
+58,Marketing and Digital Analytics,12,Queen Mary University of London,31850,2.1,6.5,1,0
+59,Environmental Sustainability,12,Edinburgh Napier University,17090,2.2,6,0,0
+60,Pre-Master's Programme,12,ONCAMPUS Sunderland,16470,0,4.5,0,0
+61,Heritage Management (with HRP),12,Queen Mary University of London,24000,2.1,7,1,1
+62,Interior Design,24,Arts University Bournemouth,4250,2.2,0,1,0
+63,Film Practice,24,Arts University Bournemouth,4250,2.2,0,1,1
+64,"Plant and Fungal Taxonomy, Diversity and Conservation",12,Queen Mary University of London,28900,2.1,6.5,0,0
+65,Blockchain in Business and Society,12,Queen Mary University of London,31850,2.1,7,1,0
+66,Digital Media,12,London Metropolitan University,18150,2.1,6,1,1
+67,"Dental Public Health, Policy and Leadership (Online)",24,Queen Mary University of London,11450,2.1,6.5,0,1
+68,International Business,12,Queen Mary University of London,31850,2.1,7,0,1
+69,Pre-Master’s Programme,12,University of Hull,15990,0,4.5,0,0
+70,Project Management,12,University of the West of England (UWE Bristol),18000,2.2,6.5,0,1
+71,Business and Finance,12,Warwick Business School,34700,2.1,7,0,0
+72,Artificial Intelligence online,27,University of Bath Online,5777,2.2,6.5,0,1
+73,Accounting and Finance,12,Queen Mary University of London,31850,2.1,7,0,1
+74,Bioinformatics,12,Queen Mary University of London,31850,2.1,6.5,0,0
+75,"Dental Public Health, Policy and Leadership (Online)",9,Queen Mary University of London,8850,2.1,6.5,0,1
+76,Experimental Oral Pathology (Oral Sciences),12,Queen Mary University of London,28900,2.2,6.5,0,1
+77,Engineering Project Management,12,University of Roehampton,19850,2.1,0,0,1
+78,Psychology - Mental Health Sciences,12,Queen Mary University of London,24000,2.1,0,1,0
+79,Marketing,12,Queen Mary University of London,31850,2.1,7,0,0
+80,Global Business Management,12,University of Roehampton,17850,2.1,6.5,1,0
+81,Digital Marketing,12,University of Roehampton,17325,0,6.5,0,0
+82,Cyber Security,12,University of the West of England (UWE Bristol),18000,2.2,6.5,1,0
+83,Dementia,24,University of Hull,5300,2.2,6,0,0
+84,Construction Project Management,12,Edinburgh Napier University,17280,2.2,6,0,0
+85,Luxury Management and Guest Experience,18,Glion Institute of Higher Education,21333,0,0,0,1
+86,Heritage Management,12,Queen Mary University of London,24000,2.1,7,0,0
+87,Public Health,12,Edinburgh Napier University,18540,2.2,0,1,1
+88,Acting,12,The Liverpool Institute for Performing Arts (LIPA),20750,2.1,5.5,0,1
+89,Digital Transformation,24,University of Hull,4900,2.2,6,1,0
+90,Advanced Security and Digital Forensics,12,Edinburgh Napier University,17280,2.2,6,0,0
+91,Extended Master's,15,ONCAMPUS Sunderland,0,3.1,0,0,1
+92,Illustration,24,Arts University Bournemouth,9900,2.2,0,0,0
+93,Entrepreneurship Management and Innovation online,27,University of Bath Online,6666,2.2,7,1,1
+94,Animation,15,University of the West of England (UWE Bristol),12800,0,6.5,0,1
+95,Education,24,University of Hull,4475,2.2,6,1,1
+96,Data Science,12,University of Roehampton,17325,2.2,6.5,1,0
+97,People Analytics,24,University of Hull,5300,2.2,6,1,0
+98,Creative Events Management,24,Falmouth University Flexible Learning,6075,0,6.5,0,1
+99,Biodiversity and Conservation,12,Queen Mary University of London,28900,2.1,6.5,0,1
+100,Robotics and Autonomous Systems Engineering,12,Edinburgh Napier University,17090,2.2,0,1,0
+101,Real Estate Management,12,University of the West of England (UWE Bristol),17250,2.2,6.5,0,0
+102,Renewable Energy,12,Edinburgh Napier University,17280,2.2,6,0,1
+103,Human Resource Management,24,University of Central Lancashire (UCLan),4274,2.2,6.5,0,0
+104,Landscape Architecture Studies,24,Arts University Bournemouth,4250,2.2,0,0,1
+105,International Marketing and Business Strategies,12,Queen Mary University of London,31850,2.1,7,0,1
+106,Oral Biology,12,Queen Mary University of London,28900,2.2,6.5,1,1
+107,Finance,12,Warwick Business School,39750,2.1,7,0,1
+108,Management of Information Systems and Digital Innovation,12,Warwick Business School,32250,2.1,7,0,0
+109,Digital Technologies for Smart Cities,12,Edinburgh Napier University,17090,2.2,0,1,1
+110,Law and Business - Finance and Accounting,12,The University of Exeter,24300,2.2,0,0,1
+111,Master of Business Administration,36,University of the West of England (UWE Bristol),6000,2.2,6.5,0,1
+112,"Real Estate, Finance and Hotel Development",18,Glion Institute of Higher Education,27133,0,0,0,0
+113,Artificial Intelligence in the Biosciences,12,Queen Mary University of London,28900,2.1,6.5,1,1
+114,Music Industry Management,12,The Liverpool Institute for Performing Arts (LIPA),19500,2.1,5.5,0,0
+115,Dental Technology,12,Queen Mary University of London,29950,2.2,6.5,0,1
+116,Minimally Invasive Dentistry,12,Queen Mary University of London,53500,0,6.5,0,1
+117,Data Science,12,University of the West of England (UWE Bristol),18000,2.2,6.5,0,1
+118,Entrepreneurship and Innovation,12,Queen Mary University of London,28900,2.1,7,0,0
+119,Marketing and Digital Communications,12,Queen Mary University of London,31850,2.1,7,0,0
+120,Creative Industries and Arts Organisation,12,Queen Mary University of London,24000,2.1,7,0,0
+121,Engineering Management,24,University of Hull,4125,2.2,6,1,1
+122,Finance and Economics,12,Warwick Business School,37000,2.1,7,0,0
+123,Applied Statistics and Data Science,12,Queen Mary University of London,31850,2.1,0,0,1
+124,Postgraduate Laws,12,University of London,10000,2.2,6.5,1,0
+125,International Business,12,Warwick Business School,32250,2.1,7,0,0
+126,Engineering Business Management,12,The University of Exeter,32500,2.2,6.5,1,0
+127,International Supply Chain Management,12,The University of Exeter,29500,2.2,6.5,0,1
+128,Psychology (Conversion),12,Queen Mary University of London,28900,2.1,6.5,0,0
+129,Graphic Design,24,Falmouth University Flexible Learning,6075,2.2,6.5,1,1
+130,Sports Management,12,The University of Exeter,29700,2.1,0,1,1
+131,Risk Analytics,12,Queen Mary University of London,31850,2.2,0,0,1
+132,International Law,12,University of the West of England (UWE Bristol),16750,2.2,6.5,0,0
+133,Illustration,24,Falmouth University Flexible Learning,6075,2.2,6.5,0,0
+134,Global Logistics and Supply Chain Analytics,12,Edinburgh Napier University,18800,2.2,6.5,1,0
+135,Engineering Business Management online,27,University of Bath Online,6666,2.2,6.5,1,0
+136,Digital Marketing,9,The University of Exeter,29500,2.2,6.5,0,1
+137,Artificial Intelligence,24,University of Hull,4125,2.2,0,1,0
+138,International Business and Strategy,12,The University of Exeter,26800,2.2,0,1,1
+139,Dance Practice and Performance,12,University of Roehampton,17325,2.2,6.5,1,0
+140,Mathematical Finance,12,Warwick Business School,37000,2.1,7,1,1
+141,Graphic Design,24,Arts University Bournemouth,9900,2.2,0,0,1
+142,Pre-Master’s Programme - Engineering and Physical Sciences,12,ONCAMPUS Aston,20370,0,5,0,1
+143,Creative Writing,12,University of Roehampton,17325,2.1,6.5,1,0
+144,Real Estate Finance and Investment,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,1
+145,Business with Operations Management,12,Warwick Business School,32250,2.1,7,0,1
+146,Global Human Resource Management,24,University of Portsmouth,9500,2.2,6.5,1,1
+147,Biotechnology and Synthetic Biology,12,Queen Mary University of London,28900,2.1,6.5,1,1
+148,Craniofacial Trauma Reconstruction (Online),24,Queen Mary University of London,13250,0,6.5,1,1
+149,International Finance,12,Edinburgh Napier University,17090,2.2,6,0,0
+150,Information Technology,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,0
+151,Accounting and Management,12,Queen Mary University of London,31850,2.1,7,0,1
+152,Management,12,Queen Mary University of London,31850,2.1,7,1,0
+153,Master of Business Administration,12,Exeed College,9800,0,0,0,0
+154,Clinical Neuroscience,12,University of Roehampton,17325,2.1,6.5,1,1
+155,Business and Management,12,The University of Exeter,26800,2.2,0,0,0
+156,International Business Administration - Extended,12,University of Wolverhampton,17000,0,6,1,0
+157,Costume Making,12,The Liverpool Institute for Performing Arts (LIPA),19500,2.1,6.5,0,1
+158,Virtual and Extended Realities,12,University of the West of England (UWE Bristol),16000,0,6.5,1,0
+159,Pre-Master’s Programme - Business,12,ONCAMPUS Aston,20370,0,5,1,0
+160,Public Health,12,University of Wolverhampton,15950,2.2,6.5,1,1
+161,Writing for Script and Screen,24,Falmouth University Flexible Learning,6075,0,6.5,1,1
+162,Education (part-time distance learning 5 years),60,University of the West of England (UWE Bristol),0,0,0,1,0
+163,Social Policy,24,University of Central Lancashire (UCLan),4274,2.2,6.5,0,1
+164,Data Science,12,University of Kent,27000,2.2,0,1,1
+165,Creative Writing,12,University of Kent,18600,2.2,0,1,0
+166,Autism Studies,12,University of Kent,18600,0,7,1,1
+167,Psychology Conversion,12,University of Kent,15134,2.2,0,0,1
+168,Social Work,24,University of Kent,18600,2.2,0,1,1
+169,Law,12,University of Kent,20000,2.1,7,1,0
+170,Applied Actuarial Science,12,University of Kent,23900,1,6.5,0,0
+171,Clinical Psychology,12,University of Kent,20000,2.2,0,0,1
+172,Computer Science (Cyber Security),12,University of Kent,22700,2.2,6.5,1,1
+173,History and Philosophy of Art,12,University of Kent,18600,2.2,0,0,1
+174,Biomedicine,12,University of Kent,22700,2.2,6.5,1,0
+175,Applied Behaviour Analysis,12,University of Kent,18600,1,7,0,0
+176,Criminology,12,University of Kent,18600,0,7,1,0
+177,Conservation Science,12,University of Kent,23900,2.2,6.5,1,0
+178,Architecture and the Sustainable Environment,12,University of Kent,18600,2.2,6.5,0,0
+179,International Social Policy,12,University of Kent,18600,1,7,1,1
+180,Film with Practice,12,University of Kent,18600,2.2,0,1,1
+181,Advanced Computer Science,12,University of Kent,22700,2.2,6.5,1,0
+182,Actuarial Science,12,University of Kent,23900,1,0,1,0
+183,Cognitive Psychology and Neuropsychology,12,University of Kent,20000,2.2,6.5,1,0
+184,Forensic Science,12,University of Kent,22700,2.2,6.5,0,1
+185,Philanthropic Studies (Distance Learning),24,University of Kent,4400,2.1,7,1,0
+186,Computer Science (Artificial Intelligence),12,University of Kent,22700,2.2,6.5,0,1
+187,International Relations,12,University of Kent,18600,1,6.5,1,0
+188,Economics,12,University of Kent,20000,2.2,6.5,1,0
+189,"Conflict, Governance and Global Development",12,University of East Anglia,21200,2.1,6,1,0
+190,Palliative Care,24,University of Liverpool,27800,2.1,0,1,1
+191,Human Nutrition,12,University of Plymouth,19000,2.2,6.5,1,0
+192,Health Research,12,University of York,23900,2.1,6.5,1,1
+193,Mathematical Sciences,12,University of York,23900,2.1,6,1,0
+194,Interpreting and Translating (Italian and German),12,University of Bath,28300,2.1,7.5,1,0
+195,Visualisation - Medical Visualisation and Human Anatomy,12,The Glasgow School of Art,32500,0,0,1,1
+196,"Animal Welfare Science, Ethics and Law",12,University of Glasgow,28260,2.2,6.5,1,1
+197,Music - Performance,12,University of Birmingham,25290,2.1,6.5,1,0
+198,Media and International Development,12,University of East Anglia,21200,2.1,6,1,1
+199,Education,24,University of Bath,11200,2.1,6.5,0,0
+200,Information Systems,12,University of Portsmouth,20800,2.1,0,0,1
+201,Insolvency Law - Part-time (Online),24,The University of Law,5675,2.2,0,0,1
+202,Automotive and Motorsport Engineering,12,Brunel University London,25000,2.2,6,1,0
+203,Economics - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,0,0,0
+204,Electrical Energy Systems,12,Cardiff University,28200,0,0,1,1
+205,"Global Challenges-Geopolitics, Inequalities and Mobilities",12,University of Bath,0,2.1,0,1,1
+206,Psychology Conversion (Distance Learning),24,University of Huddersfield Distance Learning Unit,7920,2.2,6.5,0,0
+207,Bio-business - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+208,Biomedical Sciences and Translational Medicine,12,University of Liverpool,21850,2.2,0,1,0
+209,Architecture,24,University of the West of England (UWE Bristol),16500,2.2,6.5,0,1
+210,Secondary Initial Teacher Education History,12,University of the West of England (UWE Bristol),15850,2.2,6.5,1,0
+211,Legal Practice,12,University of Hertfordshire,14805,2.2,6.5,1,1
+212,Clinical Education,12,University of Plymouth,19800,0,6.5,0,0
+213,Art History,12,University of St Andrews,25880,2.1,7,1,0
+214,Working with Adult and Young Offenders,12,University of South Wales,15100,2.2,6,1,0
+215,Public Health,16,University of Essex Online,6213,0,6.5,0,1
+216,Evolutionary and Behavioural Ecology,12,The University of Exeter,29500,2.1,6.5,1,0
+217,Public Health - Master's Foundation Programme (PMP),12,ONCAMPUS Southampton,23475,0,7,1,1
+218,Screen Acting,12,MetFilm School,22000,2.1,6.5,0,1
+219,Academic Practice,30,University of Liverpool Online Programmes,6426,0,6.5,1,1
+220,Corporate Governance,27,Bournemouth University,0,2.2,6,1,1
+221,Legal Technology - Full-time,12,"The University of Law, Postgraduate programmes",17000,2.2,0,0,1
+222,Formulation Engineering,12,University of Birmingham,29340,2.1,6,0,0
+223,Mechanical Engineering with Management,12,University of Liverpool,28000,2.1,0,1,0
+224,Clinical and Developmental Neuropsychology,12,Bournemouth University,17500,2.1,6.5,1,0
+225,Investment Banking and Finance,12,University of Glasgow,35640,2.1,6.5,1,1
+226,User Experience and Service Design,12,Loughborough University,29750,2.1,6.5,0,1
+227,Art History and Curating,12,University of Birmingham,23310,2.1,6.5,0,1
+228,Modern History,12,University of Glasgow,24000,2.1,6.5,1,0
+229,Advanced Engineering Management,12,University of Birmingham,29340,2.1,6.5,1,0
+230,Visual Culture,12,University of Nottingham,21500,2.1,7,0,0
+231,Education,12,University of Glasgow,25290,2.1,7,0,1
+232,Marketing - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+233,Inclusion (Autism Adults),36,University of Birmingham,7770,0,0,0,1
+234,Medical Research,12,University of Leicester,23900,0,7,1,1
+235,Sport Coaching,24,University of Birmingham,11655,2.1,6,1,0
+236,International Procurement and Supply Chain Management,12,University of Plymouth,18400,0,6.5,1,0
+237,Psychology,12,Bangor University,18750,2.1,0,1,0
+238,Psychology,12,University of Birmingham,23520,2.2,6.5,0,1
+239,Applied Neuropsychology,12,University of Glasgow,28260,2.1,7,1,0
+240,International Business,12,University of Derby,14900,2.2,6.5,1,1
+241,Primary SEND,8,University of Birmingham,24120,2.2,0,1,1
+242,Environmental Modelling and Data Analysis,12,University of Bristol,28800,2.1,0,1,1
+243,Digital Documentaries,12,Cardiff University,22700,2.1,7,0,0
+244,Laws (Part Time),24,University of East Anglia,21200,2.2,6,1,0
+245,Financial Management and Risk,12,University of Greenwich,18150,2.2,6.5,1,1
+246,Accounting and Finance,12,The University of Exeter,31000,2.1,6.5,1,1
+247,Advanced Clinical Practice (Pelvic Health),12,Brunel University London,23615,0,0,1,1
+248,Oral Biology,12,Cardiff University,25200,0,0,1,1
+249,"Water, Waste and Environmental Engineering with Industrial Practice",24,University of Greenwich,19975,2.2,0,0,0
+250,Clinical Anatomy,12,University of York,29400,2.1,6.5,0,1
+251,Translation and Professional Communication Skills - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,0
+252,Curating Art and Public Programmes,12,London South Bank University,0,2.2,6.5,0,0
+253,Master of Business Administration,30,University of Liverpool Online Programmes,8820,2.1,6.5,0,0
+254,Biopharmaceutical Development,12,Faculty of Biological Sciences,33000,2.1,6.5,0,1
+255,Occupational Therapy (Pre-Registration),24,Sheffield Hallam University,17570,2.2,0,1,1
+256,Curatorial Practice (Contemporary Art),12,The Glasgow School of Art,25000,0,0,0,0
+257,International Business with Entrepreneurship (Professional Practice),18,University of Huddersfield,17900,2.1,7,1,0
+258,Business Administration with Internship (MBA) - Pre-Master Programme,12,Loughborough University,23280,0,0,1,0
+259,Automotive Engineering with Electric Propulsion,12,University of Bath,31600,2.2,6.5,0,0
+260,Marketing Online,12,The University of Law Business School Online,11300,2.2,6.5,0,0
+261,Design (Graphics),12,Sheffield Hallam University,17205,2.2,6,1,0
+262,Mesolithic Studies,12,University of York,23900,2.1,6.5,0,0
+263,Medieval History,12,University of York,23900,2.1,7,1,0
+264,International Relations and Democratic Politics,12,University of Westminster,17000,2.2,6.5,0,0
+265,Construction Management - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+266,Teaching English to Speakers of other Languages and Applied Linguistics,12,Queen's University Belfast,21500,2.1,6.5,0,1
+267,Bar Practice Course (BPC) - part-time,20,"The University of Law, Postgraduate programmes",8400,0,7.5,1,0
+268,Physics of Materials,12,Loughborough University,28750,2.2,6.5,1,0
+269,Philosophy and Sociology of Science,12,The University of Exeter,24300,2.2,6.5,0,1
+270,Philosophy and Mental Health,36,University of Central Lancashire (UCLan),975,0,6.5,1,1
+271,Advanced Professional Practice (Nursing and Midwifery Professions),36,University of Plymouth,1220,2.2,6.5,0,1
+272,"Atmosphere, Ocean and Climate",12,University of Reading,25800,2.2,6.5,1,0
+273,Quality Improvement and Patient Safety,42,University of Dundee,3510,0,6.5,0,1
+274,Health Services Management,12,University of Glasgow,30240,2.2,6.5,1,0
+275,Digital Design and Construction,12,University of Reading,26950,2.2,6.5,0,0
+276,Disease Mechanisms and Therapeutics,12,Brunel University London,23615,2.2,6.5,0,0
+277,Fashion Design - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,0,1
+278,Refugee Protection and Forced Migration Studies,24,University of London,4641,2.1,7,1,0
+279,Artificial Intelligence,30,University of Liverpool Online Programmes,6426,2.2,6.5,0,0
+280,Sustainability and Management,12,University of Bath,29000,2.1,7,1,1
+281,Cyber Security and Forensic Information Technology,12,University of Portsmouth,19200,2.1,6,1,0
+282,Business Analytics - Pre-Master Programme,12,Loughborough University,23280,0,0,1,0
+283,International Business and Digital Transformation,18,University of Reading,18500,2.1,0,1,0
+284,Earth Sciences,24,University of Liverpool,27800,0,0,1,0
+285,Mathematics,12,The University of Exeter,27500,2.1,0,0,0
+286,Management (Online),30,University of Liverpool,16065,2.1,6.5,1,0
+287,Education,12,University of York,23900,2.1,6.5,1,1
+288,English Literature,12,Kingston University,16900,2.2,6.5,1,0
+289,Computing and IT Management,12,Cardiff University,30200,0,0,0,0
+290,Cultural Heritage (On-Campus or by Distance Learning),12,University of Birmingham,21840,2.1,6.5,1,1
+291,Automotive Journalism,12,Coventry University,18600,0,7,0,1
+292,Responsible Tourism Management,18,Leeds Beckett University,2078,2.2,6,0,0
+293,Strength and Conditioning,12,University of Wolverhampton,15950,2.1,6.5,1,0
+294,Global Health,12,University of Plymouth,19800,0,6.5,0,0
+295,Education,12,University of Reading,22350,2.1,6.5,0,0
+296,Visual Communication - Illustration,12,London Metropolitan University,18150,2.2,6,0,1
+297,Interpreting and Translating (French and German),12,University of Bath,28300,2.1,7.5,0,0
+298,History of Art and Architecture of the Islamic Middle East,12,SOAS University of London,25320,2.2,6.5,0,0
+299,Theatre - Socially Engaged Practice,12,University of Portsmouth,18100,2.1,6.5,0,1
+300,Fashion and Lifestyle Marketing,12,Glasgow Caledonian University,16200,2.2,6,0,0
+301,Psychology (Online),24,Coventry University,18600,2.2,6.5,1,0
+302,Linguistics (by research),12,University of York,23900,2.1,7,1,0
+303,Cognitive Behavioural Psychotherapy,18,Queen's University Belfast,8900,2.2,6.5,1,1
+304,Composing for Film and Television,12,Kingston University,19900,2.2,6.5,0,1
+305,Archaeology and Heritage (Distance Learning),12,University of Leicester,8600,2.1,6.5,1,1
+306,Project Management,12,University of Portsmouth,17900,0,6.5,1,0
+307,Human Resource Management,12,Edinburgh Napier University,18800,2.2,6,1,1
+308,Electrical Power and Smart Grids,12,The University of Exeter,29100,2.2,0,1,1
+309,Banking and Finance,12,University of Huddersfield,16000,2.2,6,0,1
+310,Global Sustainable Development (Dumfries Camus),48,University of Glasgow,21600,0,0,1,1
+311,Actuarial Science,12,Queen's University Belfast,25800,2.1,6.5,0,0
+312,Criminology and Criminal Justice,12,University of Glasgow,24000,2.1,6.5,0,0
+313,Real Estate Development,12,University of Westminster,17000,2.2,6.5,0,0
+314,Engineering Project Management,12,Bournemouth University,17750,2.2,6,1,1
+315,Intellectual Property Law,8,Brunel University London,6440,2.2,6.5,0,0
+316,Photography,12,Sheffield Hallam University,17205,2.2,6,1,0
+317,International Relations with Placement Year,24,University of Hertfordshire,17950,0,0,1,0
+318,International Healthcare Management,24,University of Essex Online,6214,0,6.5,1,1
+319,Accounting and Finance,12,University of Portsmouth,17900,2.2,6.5,0,1
+320,Digital Media and Society,12,Cardiff University,22700,2.2,7,1,1
+321,Late Antique and Byzantine Studies - Pre-Master Programme,12,ONCAMPUS London,20580,0,5.5,0,1
+322,Digital Creative Media - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+323,Criminology,12,Coventry University,18600,2.2,6.5,0,1
+324,International Development with Conflict and Humanitarian Action,24,University of Bath,13250,2.1,6.5,0,0
+325,Economics,12,University of Birmingham,25920,2.1,6.5,0,0
+326,Psychodynamic Counselling and Psychotherapy - Pre-Master's Programme,6,"Birkbeck, University of London",20580,0,5.5,0,1
+327,Early Modern History - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+328,Film and Television Production with Directing,12,University of York,29400,2.1,6.5,1,0
+329,Planning and Urban Leadership (Distance Learning),12,University of the West of England (UWE Bristol),10250,2.2,6.5,1,0
+330,"Railway Operations, Management and Policy",12,University of Leeds,0,2.1,6.5,1,0
+331,Business Consulting and Psychology,12,University of Aberdeen Business School,27000,2.2,6.5,0,0
+332,Chemistry (by Research),12,University of York,27900,2.2,6,1,1
+333,Public Relations and Strategic Communication,12,Leeds Beckett University,17500,2.2,6,0,1
+334,International Development,12,University of Bath,22400,2.1,6.5,1,1
+335,Sustainable Forest and Nature Management (SUFONAMA) (Erasmus Mundus Course),24,Bangor University,17500,1,0,1,0
+336,Transport Planning and Management,12,University of Westminster,15000,2.2,6.5,1,1
+337,"Accounting, Finance and Management",12,University of Bristol,34000,2.1,6.5,1,1
+338,Learning Disabilities Nursing,24,Kingston University,18100,2.2,0,1,1
+339,International Commercial and Business Law,12,Queen's University Belfast,21500,2.1,6.5,1,1
+340,Product and Furniture Design,12,Kingston University,20900,2.2,0,1,1
+341,Psychology (Conversion),12,University College Birmingham,14500,0,0,0,0
+342,"Journalism, Media and Culture",24,Cardiff University,24450,2.1,7,0,0
+343,Media and Communications (Media Practice),12,Brunel University London,21260,2.2,0,0,0
+344,Professional Writing,12,University of Westminster,15000,2.2,6.5,1,0
+345,Conservation Management of African Ecosystems,12,University of Glasgow,28260,2.1,6.5,1,0
+346,Intellectual Property,12,Bournemouth University,16750,2.2,6.5,0,0
+347,History of Art,12,University of Birmingham,21840,2.1,6.5,0,0
+348,"Diplomacy, International Politics and Trade - Pre-Master Programme",12,Loughborough University,23280,0,0,0,1
+349,Nutritional Sciences,12,University of Nottingham,30200,2.1,6.5,1,1
+350,Entrepreneurship and Management,12,University of Bath,29000,2.1,7,0,0
+351,Augmentative and Alternative Communication (part time),24,University of Dundee,12650,2.2,6.5,0,1
+352,Advanced Mechanical Engineering,12,Coventry University,20500,2.2,6.5,0,1
+353,Psychology (Online),15,University of Derby,5064,2.2,6.5,0,1
+354,Data Science,12,University of South Wales,15100,2.2,6,1,1
+355,Economics,12,Durham University,26000,2.1,6.5,1,1
+356,Social Science Research Methods (Social-Legal) (Law),12,Cardiff University,23200,0,0,1,1
+357,Economics and Policy of Energy and the Environment,12,UCL,34400,2.1,7,0,0
+358,Modern and Contemporary Writing,12,University of East Anglia,21200,2.1,7,0,1
+359,Intellectual Property Law,12,Cardiff University,22700,0,0,1,0
+360,Architecture,24,London South Bank University,16900,2.2,6.5,0,0
+361,User Experience Design,12,Loughborough University,29750,2.1,6.5,0,0
+362,International Project Management - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+363,Advanced Manufacturing Engineering and Management,12,Loughborough University,28750,2.1,6.5,1,1
+364,Secondary History,12,University of Huddersfield,16000,2.2,0,0,0
+365,Physiotherapy (Pre-Registration),24,University of Hertfordshire,18950,0,7,0,0
+366,"Cybercrime, Terrorism and Security",12,University of Portsmouth,17200,2.2,6.5,0,0
+367,Agroforestry and Food Security,12,Bangor University,19500,2.2,6,1,0
+368,Employment Law  - Part-time (Online),24,The University of Law,11350,2.2,0,0,0
+369,Higher Education - Part Time (Online),16,The University of Law,6600,0,6.5,1,1
+370,Forestry (Distance Learning),36,Bangor University,17500,2.1,0,0,1
+371,Psychology (part-time conversion course) - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,1
+372,Sports Business and Management,12,University of Liverpool,28000,2.1,0,0,1
+373,International Business Law - Part-time (Online),24,The University of Law,11350,2.2,0,0,0
+374,Quantitative Methods for Risk Management,10,London School of Economics and Political Science,0,2.1,7,0,1
+375,Multimedia Journalism,12,Glasgow Caledonian University,17950,2.2,7,1,0
+376,Population and Ecosystems Health,12,University of Glasgow,30240,2.1,6.5,1,0
+377,Education Management and Leadership - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,0,1
+378,Advertising and Public Relations,12,Richmond American University in London,15000,2.2,0,1,1
+379,Psychology,24,University of York,27900,0,6.5,0,1
+380,Adult Nursing,24,Kingston University,18100,2.2,7,0,1
+381,International Relations,12,Kingston University,16900,2.2,6.5,1,1
+382,International Business,12,University of Dundee,20900,2.2,6,0,0
+383,Public Health,12,Queen's University Belfast,21500,2.1,6.5,1,1
+384,Independent/Supplementary Prescribing,8,Cardiff University,0,0,0,0,1
+385,Screenwriting,12,University of Hertfordshire,16450,2.2,6.5,0,0
+386,Software Engineering,24,The University of Hertfordshire Online,4950,0,0,1,1
+387,Clinical Neuropsychology Knowledge and Practice,12,University of Glasgow,28260,0,6.5,1,0
+388,Business Law with Placement Year,24,University of Hertfordshire,17950,2.2,6.5,1,0
+389,Pharmaceutical Sciences with Industrial Practice,24,University of Greenwich,19975,2.2,0,1,0
+390,"Electronic, Electrical and Systems Engineering",12,University of Birmingham,27360,2.1,6,1,1
+391,World History - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,0,1
+392,Secondary Education - Geography,12,University of Wolverhampton,14950,0,6,0,1
+393,Marketing Management,12,University of Hull,15000,2.2,6.5,0,0
+394,Strategic Studies,12,University of St Andrews,29950,2.1,7,1,0
+395,Modern History (Part Time),24,University of East Anglia,21200,2.1,6,1,1
+396,Advanced Computer Science,12,University of South Wales,15100,2.2,6,1,1
+397,Global Environmental Challenges,24,University of Bristol,26100,2.1,6.5,1,0
+398,Financial Risk Management,9,University of Reading,25900,2.1,6.5,0,1
+399,Psychology,12,University of Hertfordshire,16450,2.1,6.5,0,0
+400,Marketing Management - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+401,Financial Risk Management,12,Leeds University Business School,0,2.1,6.5,0,0
+402,English Literature,12,Coventry University,16950,0,6.5,0,0
+403,Biomedical Science,12,Leeds Beckett University,17500,2.2,6,0,0
+404,Cellular and Molecular Physiology,24,University of Liverpool,27800,2.1,0,1,1
+405,International Media and Management,12,Bangor University,19500,2.2,6,0,1
+406,Art Museum and Gallery Studies,9,University of Leicester,22300,2.2,6.5,0,0
+407,Strategic Marketing with Digital Media Management (Experiential Learning),24,University of Hertfordshire,17950,0,6.5,0,0
+408,International Management - Pre-Master Programme,12,ONCAMPUS London,20580,0,5.5,0,1
+409,Veterinary Epidemiology,24,University of Liverpool,27800,2.2,0,1,0
+410,Animation (Online),12,University of Hertfordshire,16450,0,6.5,1,0
+411,Physiotherapy and Leadership (pre-registration),24,Coventry University,16950,0,7,1,1
+412,Sustainable Design,12,Kingston University,20900,2.1,6.5,1,0
+413,Bioengineering,12,University of Nottingham,28600,2.1,6,1,1
+414,Secondary Education (Mathematics) with Recommendation for QTS,12,Brunel University London,19430,2.2,7,0,1
+415,Art and Visual Culture,12,University of Westminster,15000,2.2,6.5,1,0
+416,Entrepreneurship and Innovation Management - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+417,Creative Writing,12,University of Birmingham,24120,2.1,6.5,1,1
+418,Global Media,12,University of Westminster,17000,2.1,6.5,0,0
+419,Psychology of Child Development,12,University of Central Lancashire (UCLan),16900,2.1,6.5,1,1
+420,"Environment, Culture and Communication",12,University of Glasgow,24000,2.1,6.5,1,0
+421,Publishing,12,Kingston University,19900,2.2,6.5,0,1
+422,Business Management,12,University of the West of England (UWE Bristol),16750,2.2,6.5,0,1
+423,Legal Practice Course,12,University of Wolverhampton,15950,0,6.5,0,0
+424,Healthcare Practice,12,University of Greenwich,111000,2.2,7,1,1
+425,Teaching English to Speakers of Other Languages,12,University of Reading,22350,2.1,6.5,1,0
+426,Politics and International Relations,12,University of Reading,22350,2.1,6.5,1,1
+427,Paediatric Exercise and Health,12,The University of Exeter,29700,2.1,6.5,0,1
+428,International Human Resource Management,8,University of Essex Online,4143,0,6.5,1,1
+429,Principles of Breast Oncoplasty,36,University of East Anglia,7500,0,7,1,1
+430,Teaching English to Speakers of Other Languages (TESOL) (Part Time),24,University of East Anglia,21200,2.1,6.5,0,0
+431,Global Business Management,12,University of East Anglia,22700,2.2,6,0,0
+432,FinTech with Industrial Placement,12,University of Kent,20000,2.2,6.5,1,0
+433,Sports and Exercise Medicine,24,Learna,5100,0,0,0,0
+434,Finance and Management,12,University of St Andrews,29950,2.1,7,1,1
+435,Mining Environmental Management,12,The University of Exeter,27500,2.2,6.5,0,0
+436,Professional Practice with PGDE,12,University of Glasgow,24000,0,6.5,1,0
+437,Dental Implantology,36,University of Bristol,12633,0,7,0,1
+438,Social Work,24,Bournemouth University,16750,2.1,7,1,1
+439,Electronic Engineering,24,University of Portsmouth,19200,2.2,6.5,1,0
+440,Management of Business Information Technology,12,University of Greenwich,17275,2.2,6.5,0,1
+441,Forensic Linguistics,12,Cardiff University,22700,0,0,1,1
+442,Real Estate,12,University of Reading,27000,0,0,1,1
+443,Development Economics,12,University of Nottingham,26250,2.1,6.5,0,1
+444,Art Writing,12,University for the Creative Arts,18000,0,0,1,0
+445,Teaching in Lifelong Learning (Top-up),12,University of Huddersfield,575,2.2,6,0,0
+446,Advanced Physics - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+447,Master of Business Administration,24,Unicaf - Liverpool John Moores,0,2.2,6,0,1
+448,Emerging Infections and Pandemics,12,University of Liverpool,26400,2.1,6.5,0,1
+449,Environmental Management,12,Sheffield Hallam University,17205,2.2,0,1,1
+450,Sport and Exercise Medicine,12,Leeds Beckett University,17500,2.2,6,0,1
+451,Artificial Intelligence,24,University of Essex Online,6214,0,6.5,0,1
+452,Project Management,12,Leeds Beckett University,17500,2.2,6,0,0
+453,Stained Glass Conservation and Heritage Management,24,University of York,23900,2.1,6.5,1,1
+454,Mathematics Subject Knowledge Enhancement Course,3,University of Birmingham,0,0,0,0,1
+455,International Competition Law and Policy,12,University of Glasgow,27090,2.1,0,0,0
+456,Media and Public Relations,12,Brunel University London,21260,2.2,6.5,1,0
+457,Marketing,12,London Metropolitan University,18700,2.2,6,1,0
+458,Sports Therapy,12,London Metropolitan University,18150,2.2,7,0,1
+459,Artificial Intelligence,12,University of South Wales,15100,2.2,6,0,0
+460,Food Sciences,12,London South Bank University,16900,2.2,7,0,1
+461,Corporate Governance Grad CG - Part-time,24,"The University of Law, Postgraduate programmes",8500,2.2,0,1,1
+462,Sports Biomechanics and Rehabilitation,12,University of Dundee,20900,2.1,6.5,1,1
+463,Biological Sciences,24,The University of Exeter,27500,2.1,6.5,1,1
+464,Education (Leading Learning & Teaching) (part time),36,University of Dundee,7170,0,6.5,0,1
+465,Educational Assistive Technology,12,University of Dundee,20900,2.1,6.5,1,0
+466,Visual Communication - Graphic Design,12,London Metropolitan University,18150,2.2,6,0,0
+467,Peace and Conflict Studies,12,University of York,23900,2.1,6.5,0,0
+468,Faculty of Media and Communication,18,Bournemouth University,19000,2.1,6.5,0,1
+469,Luxury Marketing,12,Glasgow Caledonian University,16200,2.2,6,1,0
+470,International and Commercial Dispute Resolution Law,12,University of Westminster,17000,2.2,6.5,1,0
+471,"Environmental Management, Environmental Management (Energy)",12,Kingston University,15800,2.2,6.5,1,1
+472,Infection Biology (with Specialisms),12,University of Glasgow,28260,2.2,6.5,1,1
+473,Digital Media Arts,12,University of Hertfordshire,16450,2.2,6.5,0,0
+474,Management with Sustainability,12,University of Hertfordshire,16450,0,6,1,1
+475,Economics and Data Science,12,University of Nottingham,26250,2.1,6.5,0,0
+476,Midwifery (Pre-Registration),36,University of Plymouth,19000,0,6.5,1,0
+477,Orthoptics (Pre-registration),24,University of Liverpool,27200,2.2,0,1,1
+478,Aerospace Engineering,12,Kingston University,18500,2.2,6.5,0,1
+479,Mechanical Engineering,12,University of South Wales,4000,2.2,6,0,0
+480,Photography,17,Kingston University,18700,2.2,6.5,1,0
+481,History,12,University of Bristol,28200,2.1,6.5,1,1
+482,Cinematography for Film and Television,12,Bournemouth University,17000,2.2,6.5,1,0
+483,Sport Management and Marketing - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,0
+484,International Finance and Banking,12,University of Portsmouth,19200,0,6.5,1,1
+485,Finance,12,University of Plymouth,18400,0,6.5,0,0
+486,Spanish and Latin American Studies,12,University of St Andrews,25880,2.1,7,1,1
+487,Science by Research,14,University of Greenwich,16300,2.1,0,0,0
+488,Intellectual Property and Data Protection Law,12,University of Hertfordshire,15450,1,6,1,0
+489,Physiotherapy (Pre-registration),24,Edinburgh Napier University,18675,2.2,7,0,1
+490,Cyber Security with Placement Year,24,University of Hertfordshire,17950,2.2,6,0,1
+491,Veterinary Physiotherapy,36,University of Nottingham,21500,2.2,7.5,1,1
+492,Association of Chartered Certified Accountants (ACCA),12,University of South Wales,560,0,6,1,0
+493,"Media, Culture and Society",12,University of Leicester,21400,2.1,6.5,0,1
+494,International Commercial Law (Dual Qualifying - CY Cergy Paris University),12,University of Dundee,20900,2.2,6.5,1,1
+495,Nursing (Childrens) with NMC Registration,24,University of Derby,14900,2.2,7,0,0
+496,Sport and Exercise Nutrition,12,University of Huddersfield,16000,2.2,6,0,1
+497,Computer Science,14,University of Wolverhampton,5657,0,6,1,1
+498,Church History and Theology,12,University of Glasgow,22140,2.1,6.5,1,1
+499,"Education, Languages and Linguistics",24,University of Portsmouth,17200,0,7,1,0
+500,Animation,12,University of Central Lancashire (UCLan),15500,2.2,6.5,0,1
+501,International Business with Tourism and Hospitality,12,University of Huddersfield,16000,2.2,6,1,1
+502,Sport and Exercise Nutrition,12,University of Huddersfield,16000,2.2,6,1,1
+503,Computer Science,14,University of Wolverhampton,5657,0,6,0,0
+504,Church History and Theology,12,University of Glasgow,22140,2.1,6.5,0,1
+505,International Business and Finance,12,University of Aberdeen Business School,27000,2.2,6.5,0,1
+506,Master of Business Administration,12,Richmond American University in London,17325,2.2,0,0,0
+507,Business and Sustainability,12,UCL,34400,2.1,0,1,1
+508,International Relations,12,University of Bristol,27400,2.1,6.5,1,1
+509,Multimedia Journalism (Print and Online),12,University of Westminster,17000,2.1,7,0,0
+510,Sound Design for Screen,12,Bournemouth University,17000,2.2,6.5,1,0
+511,Children's Nursing,24,Kingston University,18100,2.2,0,1,0
+512,Music Performance - Solo Voice Ensemble Singing,12,University of York,23900,2.1,0,0,1
+513,Environmental Management,12,Brunel University London,25000,2.2,0,1,1
+514,Management with Digital Marketing,12,University of Hertfordshire,16450,0,6,0,0
+515,Finance (Professional Practice),18,University of Huddersfield,17900,2.1,7,1,0
+516,Public Health,12,University of York,23900,2.1,6.5,1,0
+517,"International Law - Conflict, Security and Human Rights",24,Leeds Beckett University,10350,2.2,6,1,0
+518,"Media Law, Privacy and Defamation - Full-time (Online)",12,The University of Law,11350,2.2,0,0,1
+519,Banking and Finance,12,University of Nottingham,30200,2.1,6.5,1,1
+520,Strength and Conditioning,12,Loughborough University,29750,2.1,6.5,0,1
+521,Product Design,12,London Metropolitan University,18150,2.1,6,0,0
+522,Philosophy,12,Cardiff University,22700,0,0,1,0
+523,Secondary Education - Design and Technology,12,University of Wolverhampton,14950,0,6,0,1
+524,Sustainable Transportation and Electrical Power Systems (Erasmus Mundus),24,University of Nottingham,28600,2.1,6,1,0
+525,Advanced Clinical Practice (Cardiovascular Health),12,Brunel University London,23615,0,0,0,1
+526,Bar Training Course,10,Cardiff University,22700,0,0,1,0
+527,Qualifying Law Degree - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,1
+528,Biotechnology,12,University of York,29400,2.1,6.5,0,0
+529,English Literature,12,University of Liverpool,22400,2.1,0,1,0
+530,Fashion and Textiles,12,The Glasgow School of Art,25000,0,0,1,1
+531,Secondary Education - Art and Design,12,University of Wolverhampton,14950,0,6,0,1
+532,Health and Medical Education,24,University of Hertfordshire,0,1,6.5,0,0
+533,Veterinary Physiotherapy,36,Hartpury University,18750,2.2,7,0,0
+534,Media and Broadcast Production,12,Queen's University Belfast,21500,2.1,6.5,0,1
+535,Mental Health and Mental Capacity Law,36,Queen's University Belfast,21500,2.2,6.5,1,0
+536,Graphic Design,12,University of Portsmouth,17200,2.1,6.5,1,0
+537,Teaching English to Speakers of Other Languages (TESOL),12,University of Birmingham,25290,2.1,6.5,0,0
+538,Educational Studies,12,University of Glasgow,28260,2.1,6.5,0,0
+539,Entrepreneurship and Innovation,12,Loughborough University,17508,0,0,1,0
+540,Clinical Neuropsychology,12,University of Bristol,21200,0,0,0,0
+541,International Human Rights Law with Placement Year,24,University of Hertfordshire,0,2.2,6,0,0
+542,"International Business (Dual Award, Greenwich and New Zealand)",15,University of Greenwich,7000,2.1,0,0,1
+543,"Higher Education Administration, Management and Leadership - Part-time Online",24,"The University of Law, Postgraduate programmes",12500,0,6.5,0,0
+544,Engineering Project Management,12,Coventry University,20050,2.2,6.5,0,1
+545,Advanced Practice in Healthcare,12,University of Birmingham,29340,0,6.5,1,0
+546,Professional Legal Practice,12,University of Glasgow,11130,0,0,0,0
+547,Social Media and Social Research,12,University of York,23900,2.1,6.5,1,1
+548,Financial Engineering,12,University of Birmingham,26280,2.1,6,1,0
+549,Film and Media Production,12,Coventry University,18600,0,6.5,0,1
+550,International Relations - Pre-Master Programme,12,ONCAMPUS London,20580,0,5.5,0,1
+551,Applied Educational Leadership for International Settings,24,Leeds Beckett University,2500,2.2,6,1,0
+552,Viking and Early Medieval English Studies,12,University of Nottingham,22600,2.1,6.5,0,1
+553,Nursing,24,University of Essex Online,6214,0,6.5,1,0
+554,Health Research Methods,12,The University of Exeter,27500,2.2,6.5,1,1
+555,Conservation Biology,12,University of Derby,14900,2.2,6,1,0
+556,Clinical Psychology,12,University of South Wales,15100,2.2,6.5,1,1
+557,Contemporary Curating - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,1,1
+558,Linguistics and Intensive Language (Korean),24,SOAS University of London,25320,2.2,6.5,1,1
+559,Business Analytics with Industrial Placement,24,University of Kent,22700,2.2,0,0,0
+560,Public History,12,University of York,23900,0,7,0,1
+561,International Relations,12,University of Birmingham,24120,0,6.5,1,0
+562,Medical Genetics and Genomics,12,University of Glasgow,28260,2.1,6.5,1,0
+563,"Development, Disorders and Clinical Practice",12,University of York,29400,0,6.5,0,1
+564,International Business and Finance,12,University of Derby,14900,2.2,6,1,0
+565,Educational Studies,12,Queen's University Belfast,21500,2.1,6.5,0,1
+566,Pre-Master's Programme - Engineering and Sciences,12,ONCAMPUS London,20580,0,5.5,0,0
+567,School Direct,0,London South Bank University,0,2.2,6.5,1,0
+568,Veterinary Physiotherapy,24,University of Liverpool,15000,0,0,0,1
+569,Finance and Economics,12,University of St Andrews,29950,2.1,7,0,0
+570,Experimental Archaeology,12,The University of Exeter,24300,2.2,6.5,1,0
+571,Pre-Master’s Programme - Humanities and Social Sciences,12,ONCAMPUS Aston,20370,0,5,0,0
+572,Accounting and Finance - Pre-Master’s Programme,12,University of Hull,15990,0,4.5,0,0
+573,Popular Music and Culture,12,Leeds Beckett University,17500,2.2,6,1,0
+574,Biomedical and Healthcare Ethics,12,University of Leeds,0,0,6.5,0,1
+575,Sustainability in Transport,12,University of Leeds,0,2.1,6.5,0,1
+576,Leadership and Management in Health,24,Kingston University,9500,0,6.5,1,0
+577,Nursing (Pre-Registration) Learning Disability,24,University of Huddersfield,18000,2.2,6.5,1,1
+578,Applied Neuropsychology (Online),12,University of Bristol,13600,2.1,0,1,0
+579,Sustainable Environment,0,University of South Wales,0,0,0,1,1
+580,Data Science and Analytics,12,University of Hertfordshire,16450,0,6,0,1
+581,Business Management,12,University of Hull,15000,2.2,6.5,0,0
+582,Communication Networks and Signal Processing,12,University of Bristol,28300,2.1,6.5,1,1
+583,Intelligent Maintenance Engineering,12,University of Central Lancashire (UCLan),16900,2.2,6.5,0,1
+584,Secondary Education (11-16) with Recommendation for Qualified Teacher Status - Mathematics,9,Leeds Beckett University,9250,2.2,6.5,0,1
+585,Applied Health Sciences,12,University of Huddersfield,16000,2.1,0,0,1
+586,Supply Chain Management with Humanitarian Challenges (Professional Practice),18,University of Huddersfield,17900,2.1,7,0,1
+587,Autonomous Systems and Connectivity,12,University of Glasgow,30240,2.1,6.5,0,0
+588,International Criminal Law and International Human Rights Law,12,Bangor University,18000,2.2,6.5,0,1
+589,Project Management,12,University of Hertfordshire,16450,2.2,6.5,0,1
+590,Business Psychology - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+591,Sustainable Sport Business - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+592,Global Mental Health (Online),36,University of Glasgow,5000,2.1,0,1,0
+593,Business Innovation with Entrepreneurship and Innovation Management - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,0,1
+594,Performance Psychology,24,Bangor University,1890,2.2,0,1,0
+595,Midwifery,36,University of Dundee,2475,0,6.5,0,1
+596,Modern Foreign Languages,12,University of Portsmouth,17200,2.2,0,0,0
+597,Criminology and Criminal Psychology,12,University of Greenwich,17450,2.2,0,1,0
+598,Legal Practice (SQE1 and 2) - Part-time day,24,"The University of Law, SQE",6400,2.2,0,0,0
+599,Romantic Studies - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,0
+600,Luxury Brand Management - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+601,Microelectronics Systems Design - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,1,1
+602,Nutrition,12,University of Leeds,0,2.1,6.5,1,0
+603,Finance and Management with Industrial Placement,24,University of Kent,20000,2.2,0,1,0
+604,Energy Economics and Finance,24,University of Aberdeen Business School,17630,2.2,0,0,1
+605,Translation and Professional Language Skills (German),12,University of Bath,26500,2.1,7.5,0,1
+606,Investment and Financial Risk Management,12,Kingston University,18900,2.2,6.5,0,0
+607,International Business,12,University of Glasgow,30240,2.1,6.5,1,1
+608,Clinical Applications of Psychology,12,University of Hull,18000,2.2,6.5,1,0
+609,Socio-Legal Studies,12,University of Bristol,26700,2.1,7,0,1
+610,Flexible Executive MBA,27,University of Reading,15333,0,7,1,1
+611,Financial Economics,12,University of York,32260,2.1,0,1,0
+612,"Higher Education Administration, Management and Leadership - Part-time",24,"The University of Law, Postgraduate programmes",2100,0,0,0,0
+613,Midwifery and Women's Health,60,University of Hertfordshire,0,0,6.5,1,0
+614,Comparative Criminology and Criminal Justice,12,Bangor University,17000,2.2,0,0,0
+615,Management - Organisational Leadership and Change Pathway,12,University of Birmingham,29340,2.1,7,1,1
+616,Public Health and Health Promotion,12,Bangor University,18000,2.2,6,1,0
+617,Public Health and Health Promotion,12,Brunel University London,23615,2.2,6.5,1,0
+618,Legal Practice,12,Bournemouth University,16250,2.2,6.5,0,1
+619,Financial and Computational Mathematics,12,University of Nottingham,28600,2.1,6.5,1,1
+620,Law,12,London South Bank University,16900,2.1,7,1,0
+621,Nursing,36,University of Dundee,2475,0,6.5,0,1
+622,Applied Theatre and Education,12,University of Derby,14900,2.2,6,1,1
+623,Law,12,Abertay University,4829,2.1,6.5,0,1
+624,Medieval English,12,University of St Andrews,25880,2.1,7,0,1
+625,Finance,12,Kingston University,18900,2.2,6.5,0,0
+626,Physiotherapy (Pre-Registration),24,Sheffield Hallam University,17570,2.2,7,1,1
+627,Project Management Online,12,The University of Law Business School Online,11300,2.2,6.5,0,0
+628,Nutrition and Exercise Sciences,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,0
+629,Economics,12,Cardiff University,29200,0,0,1,1
+630,Sustainable Planning and Environmental Management,12,University of Hertfordshire,16450,2.2,6.5,0,1
+631,Illustration,12,The University of Edinburgh,28200,2.1,7,0,0
+632,Preventative Cardiovascular Medicine,24,Learna,4600,0,0,1,1
+633,Occupational Therapy (pre-registration),24,Coventry University,16950,2.2,7,0,0
+634,International Business Management,12,Edinburgh Napier University,18800,2.2,6,0,1
+635,International Accounting and Financial Management,12,University of Glasgow,35640,2.1,6.5,0,0
+636,Advanced Computer Science,12,University of Birmingham,20330,2.1,6.5,0,1
+637,Global Executive Master of Business Administration with Cyber Security,24,The University of Hertfordshire Online,5550,0,0,0,0
+638,Secondary Education (QTS) - Engineers Teach Physics,8,University of Birmingham,24120,0,0,0,0
+639,Network & Information Security,12,Kingston University,18500,2.2,6.5,0,1
+640,Physiotherapy,18,Cardiff University,28200,0,0,1,1
+641,Civil Engineering,12,Leeds Beckett University,17500,2.2,6,1,1
+642,International Business with Humanitarian Challenges,12,University of Huddersfield,16000,2.2,6,1,1
+643,Medieval Studies,12,University of Bristol,28200,2.1,6.5,0,1
+644,Teaching English to Speakers of Other Languages,12,University of Huddersfield,16000,2.2,6.5,1,1
+645,Medical Visualisation and Human Anatomy,12,University of Glasgow,29520,0,6.5,1,0
+646,Public Health Nutrition,12,Coventry University,18600,2.2,6.5,1,0
+647,International Human Rights Law and Practice,12,University of York,23900,2.1,7,1,1
+648,Aerospace Engineering,12,University of Leicester,21850,2.2,6,0,0
+649,Mental Health Psychology (Online),30,University of Liverpool,16065,2.1,0,0,1
+650,Photography Arts,12,University of Westminster,17000,2.2,6.5,1,0
+651,Educational Leadership and Management (Distance Learning),12,University of Portsmouth,2970,2.2,0,1,1
+652,Corporate Social Responsibility and Sustainability,12,London Metropolitan University,18700,2.2,6,0,1
+653,Construction Project Management,12,University of Westminster,17000,2.2,6.5,1,1
+654,Genetic and Genomic Counselling,36,Cardiff University,12200,0,0,0,0
+655,Management - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,0
+656,Historical Research - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,0,1
+657,Law,12,University of York,23900,2.1,7,1,1
+658,Social Research Methods,12,University of Liverpool,22400,2.1,0,1,0
+659,Addiction and Mental Health,12,London Metropolitan University,18150,2.2,6,1,1
+660,Marine Mammal Science,12,University of St Andrews,29950,2.1,7,1,0
+661,Human Resource Management,12,University of Liverpool,27700,2.1,0,1,0
+662,International Relations and European Politics,24,University of Bath,26500,2.1,6.5,1,1
+663,"Systems, Control and Signal Processing - Pre-Master's Programme (PMP)",12,ONCAMPUS Southampton,24195,0,5,0,1
+664,Mental Health Nursing,24,Kingston University,18100,2.2,7,1,0
+665,Energy and Environment,12,University of Leeds,31000,2.2,6.5,1,0
+666,Infrastructure Investment and Finance,12,UCL,37500,2.1,7,1,0
+667,Victorian Literature and Culture,12,University of York,23900,2.1,7,1,1
+668,Social Work,24,University of Huddersfield,16000,2.1,7,0,0
+669,Diplomacy and Global Politics,12,University of Westminster,17000,2.2,6.5,1,0
+670,Education,12,University of Bristol,27200,2.1,0,0,1
+671,Management of Information Systems and Technology,12,Coventry University,20050,2.2,6.5,0,1
+672,Electrical Power Systems with Advanced Research,24,University of Birmingham,29340,2.1,6.5,1,1
+673,Criminology and Social Research,12,University of York,23900,2.1,6.5,1,1
+674,Immersive Technologies (Virtual and Augmented Reality),12,University of Bristol,32900,0,0,0,0
+675,Creative Writing,12,The University of Exeter,24300,2.1,7,0,0
+676,Computer Science with Artificial Intelligence,14,University of Wolverhampton,5657,0,6,1,1
+677,Quality and Patient Safety Improvement,12,University of Nottingham,22600,2.2,6.5,1,0
+678,Strategic Leadership (Senior Leader Apprenticeship),24,University of Portsmouth,0,2.2,6.5,0,0
+679,"Human Geography - Spaces, Politics, Ecologies",12,University of Glasgow,25290,2.1,6.5,0,1
+680,Sport Biomechanics - Pre-Master Programme,12,Loughborough University,23280,0,0,0,0
+681,Clinical Leadership Online,30,University of Birmingham,9713,0,6.5,1,0
+682,Sustainability - Climate Change and the Green Economy,12,University of Dundee,20900,2.2,6.5,1,0
+683,Learning Technologies - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,0,0
+684,"Crime, Justice and Psychology",12,University of Leicester,18950,2.1,6.5,0,0
+685,Design (Interaction),12,Sheffield Hallam University,17205,2.2,6,1,0
+686,Environmental Law - Part-time,24,"The University of Law, Postgraduate programmes",8500,2.2,0,0,0
+687,Football Science and Rehabilitation,12,University of Central Lancashire (UCLan),9000,2.2,6.5,1,0
+688,Advanced Aesthetic and Restorative Dentistry (Top-up),12,University of Portsmouth,7950,0,6.5,0,0
+689,Criminology - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,1,1
+690,International Politics,12,SOAS University of London,24350,2.2,6.5,0,1
+691,Physics,12,University of Leeds,31000,2.1,6.5,0,0
+692,Sexual Health Medicine,6,Learna,2550,0,0,0,0
+693,Learning Technologies (Distance Learning),9,University of Leicester,4700,2.2,6.5,1,1
+694,Energy Finance (China University of Petroleum-Beijing),12,University of Dundee,0,0,0,1,0
+695,Mechanical Engineering - Pre-Master Programme,12,Loughborough University,23280,0,0,1,0
+696,Human Resource Management (with Placement Year),24,University of Hertfordshire,17950,0,6.5,1,1
+697,International Criminal Justice (Distance Learning),24,University of Portsmouth,4450,2.2,6.5,0,1
+698,Law - Law and Globalisation,12,University of Bristol,24700,2.1,7,0,1
+699,Intercultural Business Communication,12,Edinburgh Napier University,18800,2.2,6,1,0
+700,Earthquake Engineering and Infrastructure Resilience,12,University of Bristol,32900,2.1,6.5,0,1
+701,Chemistry,24,University of Liverpool,27800,1,0,0,1
+702,Mechanical Engineering - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+703,Earthquake Engineering and Infrastructure Resilience,12,University of Bristol,32900,2.1,6.5,1,1
+704,Law - Law and Globalisation,12,University of Bristol,24700,2.1,7,1,1
+705,Intercultural Business Communication,12,Edinburgh Napier University,18800,2.2,6,0,0
+706,International Criminal Justice (Distance Learning),24,University of Portsmouth,4450,2.2,6.5,1,0
+707,Secondary Education - Social Sciences,12,University of Wolverhampton,14950,0,6,1,0
+708,Business Management (Leadership and Innovation),12,Edinburgh Napier University,17090,0,0,0,1
+709,Teaching Chinese to Speakers of Other Languages (TCSOL),12,University of Nottingham,25250,2.2,6.5,1,1
+710,Art Gallery and Museum Studies,12,University of Leeds,0,2.1,6.5,1,1
+711,"Occupational Health, Safety and Environmental Management (Learning at Work)",36,University of Portsmouth,4000,0,6,1,1
+712,Psychology Conversion,12,University of Liverpool,26400,2.1,0,0,1
+713,Architectural Computation,12,UCL,34400,2.2,6.5,0,0
+714,Electronic Engineering (by research),12,University of York,22200,2.1,6,1,0
+715,Mechanical Engineering,12,University of Huddersfield,17000,2.2,6,0,1
+716,Engineering Geology,12,University of Portsmouth,19200,2.2,6.5,1,1
+717,Learning at Work,12,University of Portsmouth,0,0,0,1,1
+718,International Accounting &amp; Finance,12,Bournemouth University,18000,2.2,6,1,0
+719,Directing Film and Television,12,Bournemouth University,17000,2.2,6.5,0,0
+720,Graphic Communication,12,University of South Wales,14950,0,6,1,1
+721,Health and Public Service Management,12,University of South Wales,14950,2.2,6,0,0
+722,Media and Communication,12,University of Portsmouth,17200,2.2,6.5,0,0
+723,Architecture,12,The Glasgow School of Art,25000,0,0,0,0
+724,Sustainable Development,12,University of St Andrews,29950,2.1,6.5,0,1
+725,"Transnational, Global and Spatial History",12,University of St Andrews,25880,2.1,7,1,0
+726,English Language Teaching and Applied Linguistics,12,Coventry University,18600,2.2,6.5,1,0
+727,Automotive Engineering - Pre-Master Programme,12,Loughborough University,23280,0,0,1,0
+728,Academic Writing Development and Research,24,Coventry University,0,2.2,6.5,1,0
+729,Language Acquisition and Development,12,Bangor University,17000,2.2,0,1,0
+730,Coaching and Mentoring for Education Practitioners,12,Leeds Beckett University,2750,2.2,6,0,1
+731,Archaeology (Bioarchaeology) - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,1
+732,International Business Law,16,University of Essex Online,6213,0,6.5,0,1
+733,Management,12,Queen's University Belfast,25800,2.2,6.5,0,0
+734,Sports and Exercise Medicine,12,University of Nottingham,30200,2.1,6.5,0,0
+735,International Commercial Law,12,London South Bank University,16900,2.2,6.5,0,1
+736,Mathematics,12,Cardiff University,28200,0,0,0,0
+737,MPA Public Administration (Distance Learning) (Degree Apprenticeship),12,University of Portsmouth,0,2.2,6.5,1,0
+738,Insurance Law - Full-time (Online),12,The University of Law,11350,2.2,0,1,1
+739,Industrial Engineering and Operations Management,12,University of Nottingham,28600,2.1,6.5,1,0
+740,Business Psychology - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,5,1,0
+741,International Development (Online),24,SOAS University of London,6000,2.2,6.5,1,1
+742,International Human Resource Management,24,University of Essex Online,6214,0,6.5,1,0
+743,Infectious Disease,24,Learna,4814,0,0,1,1
+744,Archaeology,12,University of York,22200,0,6.5,1,1
+745,Marine Technology,48,University of Plymouth,18100,0,6.5,0,0
+746,Electrical and Electronic Engineering,12,Coventry University,20050,0,6.5,1,1
+747,Project Management,8,University of Essex Online,4143,0,6.5,1,0
+748,Advertising and Marketing,12,Coventry University,20050,2.2,6.5,1,0
+749,French Studies,12,University of Birmingham,21840,2.1,6.5,0,0
+750,Product and Furniture Design,12,Kingston University,20900,2.1,6.5,0,0
+751,Human Geography,12,University of Glasgow,25290,2.1,6.5,1,0
+752,International Public Policy,12,Queen's University Belfast,23100,2.1,6.5,0,1
+753,Dentistry,12,Cardiff University,44200,0,6.5,1,0
+754,Intercultural Communication and Education,12,The University of Exeter,24300,2.2,0,0,1
+755,Cognitive Neuroscience,12,University of Nottingham,28600,2.1,6.5,1,1
+756,International Business Management,12,University College Birmingham,14500,0,0,0,1
+757,Pharmaceutical Analysis with Management Studies,12,Kingston University,17500,2.2,6.5,1,1
+758,User Experience Design,12,Kingston University,18500,2.1,6.5,1,1
+759,Production Engineering and Operations Management,12,Coventry University,20050,2.2,6.5,0,0
+760,Game Development (Design),12,Kingston University,16900,2.2,6.5,0,1
+761,Environmental Engineering,12,University of Bath,31600,2.2,6.5,0,0
+762,Supply Chain Improvement,12,University of Derby,14900,2.2,6,0,1
+763,Law - Banking and Finance Law,12,University of Bristol,26700,2.1,7,1,1
+764,English Building History,36,University of York,0,0,7,1,1
+765,Translation and Professional Language Skills (French and Spanish),12,University of Bath,26500,2.1,7.5,1,1
+766,Applied Economics,12,University of Bath,26500,2.1,6.5,1,0
+767,Veterinary Medicine,48,University of Nottingham,41000,0,7.5,1,1
+768,Game Design,12,University of Plymouth,17600,2.1,6.5,1,1
+769,Environmental Sciences,12,University of Plymouth,17170,2.1,6.5,1,0
+770,Management with International Business and Development - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,0
+771,Performance,12,University of Liverpool,22400,2.1,0,0,0
+772,Management with Leadership,12,University of Huddersfield,16000,2.2,6,0,1
+773,Computational Mathematical Finance,12,The University of Edinburgh,38100,2.1,6.5,1,0
+774,Landscape Architecture,24,UCL,31100,2.2,7,0,0
+775,Architecture,24,University of Plymouth,17100,2.1,6.5,0,1
+776,Architecture,24,Kingston University,18400,2.2,6.5,1,0
+777,Oral and Maxillofacial Surgery,24,University of Glasgow,50490,0,7,1,0
+778,Criminology and Criminal Justice,12,Queen's University Belfast,21500,2.2,6.5,0,0
+779,Optical Communications and Signal Processing,12,University of Bristol,34200,2.1,6.5,1,1
+780,International Development,12,University of Bath,26500,2.1,6.5,1,1
+781,Education,12,Brunel University London,21260,2.2,6.5,0,1
+782,Banking (Chartered Banker),12,Bangor University,18300,2.2,0,0,1
+783,Civil Engineering and Construction Management,12,University of Derby,14900,2.2,6,1,1
+784,Oil and Gas Engineering,12,University of Huddersfield,17000,2.1,6,0,1
+785,Employment Law  - Full-time (Online),24,The University of Law,11350,2.2,6.5,0,0
+786,Law and Business - Management,12,The University of Exeter,24300,2.2,0,0,0
+787,Archives and Records Management (Digital Pathway),12,University of Liverpool,22400,2.1,0,0,0
+788,Management,12,Coventry University,18250,2.2,6.5,0,0
+789,Egyptology,12,University of Liverpool,22400,2.1,0,1,1
+790,Global Gender History,12,University of Glasgow,24000,2.1,0,1,1
+791,Construction Project Management - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+792,Painting,12,Coventry University,18600,2.2,6.5,1,0
+793,Secondary Education (QTS) - English,36,University of Birmingham,8040,2.2,6.5,0,0
+794,Architecture - Architecture (International),36,University of Huddersfield,16000,0,6,0,0
+795,Secondary Education - Physical Education with Geography,12,University of Wolverhampton,14950,0,6,1,0
+796,Neurobiology and Neurodegeneration,24,University of Liverpool,27800,2.1,0,1,0
+797,Documentary Film Production,12,London Metropolitan University,18150,2.2,6,1,1
+798,Data Science,24,Unicaf - University of East London,0,2.2,6,0,0
+799,Computer Science - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+800,"Migration, Mobility and Development",12,SOAS University of London,25320,2.2,6.5,1,1
+801,Environmental Consultancy - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,0,0
+802,Medical Devices Engineering,12,University of Glasgow,31860,2.1,6.5,0,0
+803,Health Sciences,36,University of Greenwich,16300,2.1,6.5,0,1
+804,Accounting and Finance,12,University of Huddersfield,16000,2.2,6,1,0
+805,International Business Law,30,University of Liverpool Online Programmes,6426,2.1,6.5,1,1
+806,Organizational Psychology and Business,12,Leeds University Business School,0,2.1,6.5,1,0
+807,Translation Studies,12,Bangor University,17000,2.2,0,0,1
+808,Criminal Investigation,12,University of Derby,14900,2.2,6.5,0,1
+809,Business Administration,12,University of Glasgow,37500,2.1,6.5,0,1
+810,Geographical Information Systems,12,University of Portsmouth,17200,2.2,6.5,1,1
+811,Marketing,12,Edinburgh Napier University,17090,2.2,6,1,0
+812,Finance and Accounting,12,University College Birmingham,14500,2.2,6,0,0
+813,Literary Translation (Part Time),24,University of East Anglia,21200,2.1,7,0,1
+814,Restorative Dentistry (Distance Learning),24,University of Birmingham,26280,0,7,0,1
+815,Product Design,12,University of Dundee,21900,2.1,6,0,0
+816,Finance and Accounting,12,University of Wolverhampton,15950,2.2,6.5,0,1
+817,Food Economics and Marketing,12,University of Reading,22350,2.1,6.5,1,0
+818,Medical Education (Part time),24,University of Dundee,8010,0,6.5,0,0
+819,Big Data Biology,12,Cardiff University,27450,0,0,0,0
+820,Biomedical Engineering,12,University of Glasgow,30240,2.1,6.5,1,1
+821,Academic Writing Development,12,Coventry University,0,2.2,6.5,1,0
+822,Audiology - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,0
+823,Marketing Management (Retail),12,Bournemouth University,16500,0,0,0,1
+824,Criminology and Sociology,12,Bangor University,18000,2.2,6,1,1
+825,Communications Engineering,12,University of Birmingham,29340,2.1,6.5,1,1
+826,Sports Injury Management,4,Leeds Beckett University,3500,2.2,6,0,0
+827,Secondary Education - Physical Education with Mathematics,12,University of Wolverhampton,14950,0,6,0,1
+828,Molecular Microbiology,12,Sheffield Hallam University,17205,2.1,6,1,1
+829,SEN-ALN (Additional Learning Needs),12,University of South Wales,15100,1,6,1,0
+830,Electrical and Electronic Engineering,48,University of Bristol,26000,2.1,6.5,1,1
+831,Marketing,12,University of Bristol,32900,2.1,7,1,0
+832,Law Research,12,Bangor University,16500,2.1,0,1,0
+833,Fine Art - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,0
+834,"Food Safety, Hygiene and Management",12,University of Birmingham,29340,2.1,6,1,0
+835,Advanced Computer Science,12,Cardiff University,30200,0,0,1,0
+836,International Mineral Law and Policy,12,University of Dundee,20900,2.2,6.5,0,1
+837,Specialist Community Public Health Nursing - Health Visiting,12,Leeds Beckett University,0,2.2,6,0,1
+838,Welsh Government and Politics,12,Cardiff University,0,0,0,0,0
+839,Legal Practice Course,12,London Metropolitan University,12500,2.2,6,1,1
+840,Professional Practice,12,University of South Wales,15100,0,6,1,1
+841,Nuclear Medicine,36,University of the West of England (UWE Bristol),3000,0,6.5,0,1
+842,Mentoring in Dental Practice,6,University of Central Lancashire (UCLan),1000,0,6.5,1,0
+843,Design Innovation and Citizenship,12,The Glasgow School of Art,25000,0,0,0,0
+844,Clinical Neuropsychology,12,University of Glasgow,28260,0,6.5,0,1
+845,Sustainable Civil and Structural Engineering,12,University of Liverpool,28000,2.1,0,0,1
+846,Theoretical Physics,12,University of Hertfordshire,16450,0,6.5,0,1
+847,Analytical and Pharmaceutical Science - Pre-Master Programme,12,Loughborough University,23280,0,0,1,0
+848,Information Technology and Intellectual Property Law,12,University of East Anglia,21200,2.2,6.5,1,0
+849,Classics,12,University of Birmingham,21840,2.1,6.5,1,0
+850,Sport and Physical Activity,24,Sheffield Hallam University,17205,0,6,0,1
+851,Interpreting and Translating (Chinese),12,University of Bath,28300,2.1,7.5,0,1
+852,Media and Advertising,12,University of Leicester,19750,2.1,6.5,1,0
+853,Clinical Dentistry (Prosthodontics),36,Cardiff University,50700,0,0,1,1
+854,Bioarchaeology - Zooarchaeology,12,The University of Exeter,24300,2.2,6.5,0,1
+855,Personality Disorder (Research),36,University of Central Lancashire (UCLan),975,1,6.5,0,0
+856,Secondary Science with Biology,12,London Metropolitan University,17600,2.2,6,1,1
+857,Earth and Environmental Sciences,24,University of Portsmouth,19200,2.2,6.5,0,0
+858,International Law,12,University of Westminster,17000,2.2,6.5,0,0
+859,Television Fiction Writing,12,Glasgow Caledonian University,18950,2.2,7,1,0
+860,Statistics and Operational Research,12,The University of Edinburgh,29900,2.1,6.5,0,0
+861,Media Management,12,University of Glasgow,28260,2.1,6.5,0,0
+862,Cultural Industries and Entrepreneurship,12,University of Nottingham,22600,2.1,7,1,0
+863,Organisational Psychology,16,University of Essex Online,6213,0,6.5,1,1
+864,Pharmaceutical Science and Drug Delivery Systems,12,London Metropolitan University,18150,2.2,6.5,0,1
+865,Clinical Anatomy and Education,12,University of Hull,29400,2.1,6.5,1,0
+866,Global Intercultural Communication,12,University of East Anglia,21200,2.1,6,0,1
+867,Education (International),11,University of Nottingham,4666,2.2,6.5,0,1
+868,Health Data Science,12,University of St Andrews,29950,2.1,7,0,1
+869,Education with Placement Year,24,University of Hertfordshire,17950,2.2,6.5,0,0
+870,Digital Business and Management,12,University of East Anglia,22700,2.1,6,1,1
+871,General Law,12,Kingston University,16900,2.2,6.5,1,0
+872,Cyber Security and Digital Forensics,12,Leeds Beckett University,17500,2.2,6,1,0
+873,Television Journalism - Pre-Master's Programme,12,ONCAMPUS London,20580,0,5.5,0,1
+874,Sport Psychology,12,Coventry University,18600,2.2,6.5,0,1
+875,Teaching English to Speakers of Other Languages,12,University of Hertfordshire,16450,2.2,6.5,1,0
+876,Robotics,12,University of Bristol,32900,2.1,6.5,0,1
+877,Sports Medicine,12,University of Central Lancashire (UCLan),16900,2.2,6.5,0,0
+878,Sustainable Food Systems,12,University of Liverpool,26400,2.1,0,0,1
+879,International Medical Sciences,24,University of Central Lancashire (UCLan),0,2.2,6.5,1,0
+880,International Security and Global Governance - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,1
+881,English Literature,12,University of Bristol,20700,2.1,7.5,0,0
+882,Palaeobiology,12,University of Bristol,29600,2.1,6.5,0,0
+883,Architectural Technology and Design,24,Leeds Beckett University,5450,2.2,6,1,1
+884,Construction Management with BIM,12,Coventry University,18600,0,6.5,0,1
+885,Entrepreneurship and Innovation Management,12,University of Liverpool,27000,2.1,0,1,1
+886,War Studies,12,University of Glasgow,24000,2.1,6.5,0,1
+887,Plasma Surface Engineering,24,Sheffield Hallam University,17205,0,0,0,0
+888,Banking and Debt Finance - Part-time,24,The University of Law,11350,2.2,0,1,1
+889,International Development - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+890,Sustainable Chemistry,12,University of Birmingham,29340,0,0,0,1
+891,Business Analytics and Management,12,University of East Anglia,22700,2.1,6,1,0
+892,Public Policy,12,Leeds Beckett University,17500,2.2,6,0,0
+893,Construction Project Management,12,University of Portsmouth,20800,2.2,0,1,0
+894,Social Media and Political Communication - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+895,"Children, Youth and International Development - Pre-Master's Programme",12,"Birkbeck, University of London",19980,0,5.5,0,0
+896,Drug Design and Biomedical Science,12,Edinburgh Napier University,18540,2.2,6,1,0
+897,Electronic Engineering,12,Bangor University,21000,2.2,6,0,1
+898,History By Research (On-Campus or By Distance Learning),12,University of Birmingham,21840,2.1,6.5,0,1
+899,"International Events, Leisure and Tourism Management",12,London Metropolitan University,18150,2.2,6,1,1
+900,International Business and Human Resource Management,12,Sheffield Hallam University,17205,0,6,1,1
+901,International Business and Human Resource Management,12,Sheffield Hallam University,17205,0,6,0,0
+902,Project Management,12,The University of Law Business School,17000,2.2,6.5,0,1
+903,Public Health (part time),24,University of Dundee,10950,2.1,6.5,1,1
+904,Clinical Sciences,12,University of Birmingham,27360,2.1,6.5,0,0
+905,Investment Analysis - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,5,1,1
+906,Global Literary Industries Management - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+907,Climate Justice,12,Glasgow Caledonian University,15500,2.2,6,0,1
+908,Interactive Media (by research),12,University of York,22200,2.1,6,0,1
+909,Music by Research,12,Bangor University,16500,1,0,0,0
+910,Mathematics with Data Science for Industry,12,University of Bath,31600,1,6.5,0,1
+911,Historic Building Conservation,12,Kingston University,16600,2.2,6.5,0,0
+912,Spatial Planning and Development,12,Cardiff University,23450,0,0,0,0
+913,Veterinary Microbiology,24,University of Liverpool,27800,2.1,0,1,0
+914,Law General (AMIL) - Full-time (Online),4,The University of Law,3800,2.2,0,1,0
+915,Sensor and Imaging Systems,12,University of Glasgow,30240,2.1,6.5,1,0
+916,Sport Coaching,12,Leeds Beckett University,17500,2.2,6.5,1,1
+917,Nuclear Decommissioning and Waste Management,12,University of Birmingham,29340,2.2,6,0,1
+918,Architecture,24,Loughborough University,28750,2.1,0,0,0
+919,Business and Organisational Psychology,12,University of Westminster,15000,2.2,6.5,1,1
+920,Crisis and Disaster Management,12,University of Portsmouth,17900,2.2,0,0,1
+921,Forensic Psychology,12,Coventry University,18600,2.2,6.5,0,1
+922,Insurance Law - Part-time,24,"The University of Law, Postgraduate programmes",8500,2.2,0,1,0
+923,Marketing,12,University of Liverpool,28000,2.1,0,0,1
+924,International Events Management,12,Leeds Beckett University,17500,2.2,6,0,1
+925,Food and Nutrition Sciences (Work Experience),24,Sheffield Hallam University,8602,2.2,0,0,0
+926,Systemic Psychotherapy,24,Queen's University Belfast,21500,2.2,6.5,1,1
+927,Legal Technology - Full-time (Online),8,The University of Law,3800,2.2,0,0,1
+928,Archaeology,12,University of Glasgow,24000,2.1,7,0,1
+929,Human Geography Research,12,University of Plymouth,17600,0,6.5,0,0
+930,Film (Directing),12,University of South Wales,14950,2.2,6,1,1
+931,Pharmacovigilance,60,University of Hertfordshire,1420,2.1,7,1,0
+932,Public Policy,12,University of Bristol,28600,2.1,6.5,1,1
+933,Finance - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,5,0,0
+934,Legal Practice (SQE1 and 2) - Part-time evening,20,"The University of Law, SQE",7380,0,0,0,1
+935,Environmental Geochemistry,12,University of Plymouth,19800,2.2,6.5,0,1
+936,Advanced Practice,42,University of Dundee,3510,0,6.5,1,1
+937,Applied Linguistics for Language Teaching - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+938,Islamic Studies,12,SOAS University of London,25320,2.2,6.5,1,0
+939,"Gender, Sexuality in Global Politics (Online)",24,SOAS University of London,6000,2.1,6.5,1,1
+940,Molecular Mechanistic Toxicology,12,University of Birmingham,27360,2.1,6,0,1
+941,Laws,12,Leeds Beckett University,4200,0,0,1,0
+942,Business Analytics,12,University of Nottingham,28600,2.1,6.5,0,1
+943,Advanced Composites,12,University of Bristol,30900,2.1,6.5,0,1
+944,Public Health with Advanced Research,24,University of Hertfordshire,18950,2.2,7,1,1
+945,Medicinal Chemistry,12,Kingston University,18500,2.2,6.5,0,1
+946,Digital Fashion,12,University for the Creative Arts,18000,0,0,1,1
+947,Environment (by research),12,University of York,22200,0,6,1,1
+948,Civil Engineering,12,Brunel University London,25000,2.2,6,0,0
+949,Creative Industries and Cultural Policy,12,University of Glasgow,25290,2.1,6.5,0,0
+950,Engineering Management,12,University of York,29400,2.1,6,0,1
+951,"Accounting, Financial Management and Digital Business - Pre-Master's Programme",9,University of Reading,21600,0,5,1,1
+952,Aerospace Engineering and Management,12,University of Glasgow,29370,2.1,6.5,0,1
+953,Political Communication,12,University of Glasgow,25290,2.1,6.5,0,1
+954,Statistics and Applied Probability,12,University of Nottingham,24000,2.2,6,0,1
+955,Celtic Studies,12,University of Glasgow,24000,2.1,0,1,0
+956,Occupational Therapy (Pre-registration),24,University of Central Lancashire (UCLan),16900,2.2,7,1,1
+957,Financial Modelling and Investment,12,University of Glasgow,35640,2.1,6.5,0,0
+958,Statistics and Computational Finance,12,University of York,32260,2.1,6,0,0
+959,Research Methods in Psychology,12,University of St Andrews,29950,2.1,7,1,1
+960,Intellectual History,12,University of St Andrews,25880,2.1,7,0,0
+961,Criminal Justice,12,University of Central Lancashire (UCLan),16900,2.2,6.5,0,0
+962,Data Analytics,12,London Metropolitan University,18150,2.2,6,1,1
+963,Advanced Legal Studies,12,University of Reading,22350,2.1,6.5,1,1
+964,Speech and Language Therapy,24,University of Reading,26950,2.1,6.5,1,1
+965,Antiquity - Archaeology pathway,12,University of Birmingham,24120,2.1,6.5,1,1
+966,Engineering Project Management (Learning at Work),0,University of Portsmouth,12000,0,6,0,0
+967,Pharmaceutical Science,12,University of Greenwich,16300,2.2,6.5,0,0
+968,Healthcare Management,12,University of Kent,22700,2.2,6.5,0,0
+969,Marketing and Creativity,18,ESCP Business School,17133,0,7,0,0
+970,Occupational Psychology,24,University of Leicester,5975,2.1,6.5,0,1
+971,Communication,12,University of Westminster,17000,2.1,6.5,1,0
+972,International Human Resource Management,12,University of Reading,22900,2.1,6.5,1,1
+973,Interdisciplinary Study,12,University of Birmingham,23520,2.1,6.5,1,1
+974,Data Science - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+975,Naval History (Distance Learning),12,University of Portsmouth,8900,2.2,6.5,1,0
+976,Architecture,24,University of Liverpool,21850,2.1,0,0,1
+977,Civil Engineering,12,University of Greenwich,16300,2.2,6,1,1
+978,Specialised Translation,12,University of Westminster,15000,2.2,6.5,1,1
+979,Education (Inclusive Education),12,University of Bristol,27200,0,0,1,0
+980,Comparative Literature - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,0,0
+981,Classics and Ancient History,12,University of Liverpool,21850,2.1,0,1,1
+982,Computing and Informatics,24,Sheffield Hallam University,17205,0,6,1,1
+983,Machine Learning and Autonomous Systems Including Placement Year,24,University of Bath,31600,2.1,6.5,1,1
+984,Teaching English to Speakers of Other Languages,12,University of Bath,26500,2.1,6.5,1,0
+985,Dance and Choreography,12,University of Derby,14900,1,6,0,0
+986,Nursing Studies,36,University of Derby,2835,2.2,7,1,0
+987,Electronic and Automotive Engineering,12,University of Huddersfield,17000,2.2,6,0,0
+988,Project Management and Operations Management,12,University of Huddersfield,16000,2.2,6,0,0
+989,Medical Ultrasound,12,Glasgow Caledonian University,15500,2.2,7,0,1
+990,Care of the Older Person,24,Learna,4964,0,0,0,0
+991,Gastroenterology,24,University of Liverpool,27800,2.1,0,1,0
+992,Environmental Design of Buildings (3 year Distance Learning),36,Cardiff University,9400,2.1,6.5,1,1
+993,"Law, Regulation, and the International Financial System",12,University of Greenwich,17450,2.2,6.5,0,1
+994,Education (Leadership and Management),12,University of Huddersfield,16000,2.2,6,0,1
+995,History by Distance Learning,24,University of Birmingham,5265,2.1,6.5,0,1
+996,Actuarial Science with Data Analytics,9,University of Leicester,23650,2.1,6,0,1
+997,Contemporary Identities,12,University of Bristol,27400,2.1,6.5,1,1
+998,Master of Business Administration,12,University of Hertfordshire,16950,2.2,6.5,1,1
+999,Political Psychology,12,Bournemouth University,16000,2.2,6.5,0,1
+1000,International Human Rights Law,12,University of Huddersfield,16000,2.2,6,0,1
+1001,"Strength, Conditioning and Performance",12,University College Birmingham,14500,2.2,6,1,0
+1002,Literature in the Creative and Cultural Industries,12,University of York,23900,2.1,0,1,0
+1003,Health Psychology,12,University of Nottingham,25250,2.1,6.5,0,0
+1004,Medical Anthropology,12,Brunel University London,21260,2.2,6.5,0,0
+1005,Economics and Public Policy,12,University of York,23900,2.1,6.5,0,0
+1006,Engineering Control Systems and Instrumentation,12,University of Huddersfield,17000,2.2,6,0,0
+1007,Social and Organisational Psychology,24,The University of Hertfordshire Online,4950,0,0,0,0
+1008,Strategic Marketing,12,University of Greenwich,17275,2.2,6.5,1,1
+1009,Big Data Technologies,12,University of Westminster,17000,2.2,6.5,0,1
+1010,International Journalism,12,Cardiff University,22700,0,0,0,1
+1011,Psychology of Education,12,University of Bristol,27700,2.1,6.5,0,0
+1012,Advanced Manufacturing Engineering and Management - Pre-Master Programme,12,Loughborough University,23280,0,0,0,0
+1013,Secondary Modern Languages,12,London Metropolitan University,17600,2.2,6,0,1
+1014,Cognitive Neuroscience and Neuropsychology - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,0
+1015,Organizational Behaviour - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,0,0
+1016,Pre-Master's Programme - Humanities and Social Sciences,12,"Birkbeck, University of London",20580,0,5.5,0,0
+1017,Advanced Professional Practice (Part time),36,University of East Anglia,21200,2.2,6.5,1,1
+1018,Law,12,University of Liverpool,13600,2.2,0,0,0
+1019,Epidemiology,12,University of Bristol,31300,2.1,7,0,1
+1020,Maritime History,12,University of Plymouth,17600,0,6.5,0,0
+1021,Innovation Management and Entrepreneurship,12,Kingston University,18900,2.2,6.5,1,1
+1022,Organisational Psychology,24,University of Essex Online,6214,0,6.5,1,1
+1023,Global Health - Master's Foundation Programme (MFP),12,ONCAMPUS Southampton,23475,0,6.5,0,0
+1024,Public Policy and Management,12,SOAS University of London,25740,2.2,6.5,1,1
+1025,"Conflict, Development and Peacebuilding",12,School of Politics and International Studies,0,2.1,6.5,1,1
+1026,Human Resource Management,12,Richmond American University in London,17325,2.2,0,1,0
+1027,Light and Lighting,12,UCL,34400,2.2,7,0,1
+1028,Cinematic and Videogame Architecture,12,UCL,37500,2.2,0,1,1
+1029,Nursing and Midwifery,12,University of Huddersfield,16000,2.1,0,0,0
+1030,Spanish,24,University of Dundee,2690,0,6.5,0,0
+1031,Digital Design and Branding,12,Brunel University London,25000,2.2,6,1,0
+1032,Innovation and Entrepreneurship,12,University of Bristol,34000,2.1,6.5,0,0
+1033,Master of Business Administration (Online),24,University of Hertfordshire,1070,0,6.5,1,0
+1034,Outdoor Environmental Education,12,University of Hertfordshire,16450,2.2,6.5,0,0
+1035,Clinical Embryology and In Vitro Fertilisation (distance learning),36,University of Dundee,4725,2.1,0,1,1
+1036,Editing and Post Production (EPP),12,London South Bank University,16900,2.2,6.5,1,1
+1037,Innovation Management and Entrepreneurship (Distance Learning),24,University of Portsmouth,4700,2.2,6,1,1
+1038,Events and Experience Management,12,Coventry University,20050,2.2,6.5,0,0
+1039,Art Psychotherapy,24,Brunel University London,23615,2.2,7,1,1
+1040,Urban Research,12,University of Glasgow,24000,2.1,6.5,0,1
+1041,Mathematical Finance,12,The University of Exeter,29100,2.2,0,0,0
+1042,Filmmaking - Pre-Master's Programme,12,ONCAMPUS London,20580,0,5.5,1,0
+1043,Space Engineering,12,University of Birmingham,29340,0,0,1,0
+1044,Clinical Embryology and In Vitro Fertilisation (distance learning),12,University of Dundee,4725,2.1,6.5,1,1
+1045,Sport and Exercise Science and Medicine,36,University of Glasgow,5000,2.2,6.5,1,0
+1046,Innovation and Technology Management,12,University of Bath,29000,2.2,6.5,0,0
+1047,Sustainable Water Environments,12,University of Glasgow,28260,2.1,6.5,1,1
+1048,Bioinformatics,12,University of Nottingham,28600,2.1,6.5,1,0
+1049,Secondary History with Qualified Teacher Status,12,Sheffield Hallam University,17205,2.2,7,1,0
+1050,Economics,12,University of Liverpool,25000,2.1,0,1,0
+1051,Chartered Banker,12,Bangor University,18500,2.2,0,0,0
+1052,Genomic Medicine,12,University of Birmingham,24120,2.1,6.5,1,1
+1053,Music,12,Cardiff University,22700,0,0,0,1
+1054,International Development,24,University of Bath,13250,2.1,6.5,1,1
+1055,Interpreting and Translating (French and Italian),12,University of Bath,28300,2.1,7.5,0,1
+1056,Global MBA (Financial Management),18,London School of Business and Finance,6000,3.2,5.5,1,1
+1057,Master of Business Administration,12,University of Westminster,19000,2.2,6.5,0,1
+1058,International MBA,30,University of Reading,156200,0,7,1,1
+1059,Ecological Survey Skills with Placement,12,University of Reading,22350,2.1,6.5,0,0
+1060,Education (Social Justice),12,University of Birmingham,23310,2.1,6.5,1,1
+1061,Character Education,36,University of Birmingham,7770,2.1,6.5,0,0
+1062,Language and Linguistics,12,Cardiff University,22700,0,0,0,0
+1063,Business Analytics and Finance - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,1
+1064,Research Methods in Psychology - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+1065,Synthetic Biology,12,UCL,37500,2.1,6.5,1,1
+1066,Secondary Geography with Qualified Teacher Status,12,Sheffield Hallam University,17205,2.2,0,1,1
+1067,International Law,12,University of Reading,22350,2.1,6.5,0,1
+1068,Pre-Master's Programme - Economics,9,University of Reading,21600,0,5,1,1
+1069,German Studies,12,University of Birmingham,21840,2.1,6.5,0,0
+1070,Social Policy,12,University of Central Lancashire (UCLan),16900,2.2,6.5,0,1
+1071,History - Pre-Master Programme,12,ONCAMPUS London,20580,0,5.5,1,0
+1072,International Marketing (Dual Degree),12,Edinburgh Napier University,17090,2.2,0,0,0
+1073,Applied Mathematics,12,University of Birmingham,21360,2.1,6,1,0
+1074,Music Engineering and Production,12,University of South Wales,14950,2.1,6,1,1
+1075,Applied Human Rights,12,University of York,23900,2.2,6.5,0,1
+1076,Conservation of Historic Buildings,12,University of York,23900,2.1,6.5,1,1
+1077,Advanced Professional Practice in Physiotherapy,12,University of Plymouth,19000,2.2,6.5,0,0
+1078,Biomedical Sciences (Cellular Pathology),12,University of Westminster,17000,2.2,6.5,1,0
+1079,"Religion, Politics and Society",12,University of Birmingham,24120,2.1,6.5,1,1
+1080,Global Plant Health,12,University of East Anglia,33150,0,6.5,0,0
+1081,Character and Creature Animation,24,The University of Hertfordshire Online,4950,0,0,1,1
+1082,Software Development,12,Queen's University Belfast,25800,2.2,6,0,0
+1083,Creative Writing,12,Edinburgh Napier University,17280,2.2,6,1,1
+1084,Health Psychology,12,University of Westminster,17000,2.1,7,0,0
+1085,"Law, Innovation and Technology",12,University of Bristol,26700,2.1,0,0,0
+1086,Psychodynamics of Human Development - Pre-Master's Programme,6,"Birkbeck, University of London",20580,0,5.5,0,0
+1087,Biomedical Science,12,University of Wolverhampton,15950,2.2,6.5,0,1
+1088,History of Art (Modern and Contemporary Art),12,University of York,23900,2.1,6.5,0,1
+1089,Organised Crime and Global Security,12,London Metropolitan University,18150,2.2,6,1,1
+1090,Secondary Education - Physical Education with English,12,University of Wolverhampton,14950,0,6,0,1
+1091,Psychology of Mental Health,12,London Metropolitan University,18150,2.2,6.5,1,1
+1092,Management and Leadership,12,Leeds Beckett University,17500,2.2,6,1,0
+1093,"International Development, Social Justice and Sustainability",24,University of Bath,13250,2.1,6.5,1,0
+1094,Data Science,12,Kingston University,18500,2.1,6.5,0,0
+1095,Global Urbanism,12,UCL,31100,2.1,7,1,0
+1096,International Human Resource Management,12,University of Westminster,14000,2.2,6.5,0,0
+1097,Strategic Communication,12,Loughborough University,24500,2.2,6.5,0,0
+1098,Sustainable Development,12,The University of Exeter,27500,2.1,6.5,1,1
+1099,Town and Regional Planning,12,University of Liverpool,22400,2.1,0,0,1
+1100,Creative Writing and Publishing,12,Bournemouth University,17000,2.2,6.5,0,0
+1101,Modern History,12,University of York,23900,2.1,7,0,0
+1102,Sport and Exercise Psychology,12,Loughborough University,29750,2.1,6.5,0,1
+1103,International Business,12,University of Birmingham,35850,2.1,7,1,1
+1104,History (Local History),12,University of Leicester,17500,2.1,6.5,0,0
+1105,Career Development and Employability,12,University of Huddersfield,4600,0,0,0,0
+1106,International Events Management (Work Experience Route),24,Sheffield Hallam University,17205,0,6,0,0
+1107,Tourism Development and Culture,24,University of Glasgow,16860,2.1,6.5,0,0
+1108,Mechanical and Manufacturing Engineering,12,University of Derby,14900,2.2,6.5,0,0
+1109,Biological Photography and Imaging,12,University of Nottingham,28600,2.2,6.5,1,1
+1110,Intercultural Business Communication,12,University of Central Lancashire (UCLan),16900,2.1,6.5,1,0
+1111,Clinical Cognitive Neuroscience,12,Sheffield Hallam University,17205,0,6.5,0,1
+1112,iQTS Secondary Physics (11-16),12,University of the West of England (UWE Bristol),9250,2.2,0,1,0
+1113,Public Health,24,Unicaf - University of Suffolk,0,2.2,6,0,1
+1114,Data Science,12,University of Bristol,34200,2.1,0,1,1
+1115,Applied Health Research,24,University of Liverpool,27800,2.1,0,1,1
+1116,Investment and Risk Finance,12,University of Westminster,15000,2.2,6.5,0,1
+1117,"Security, Conflict and International Development (Distance Learning)",12,University of Leicester,8600,2.1,6.5,1,0
+1118,Nutritional Sciences,12,University of Nottingham,30200,2.2,6.5,0,0
+1119,Physical Education and Youth Sport,12,Leeds Beckett University,17500,2.2,6.5,1,0
+1120,Health Economics and Health Technology Assessment,12,University of Glasgow,30240,2.1,6.5,1,1
+1121,Translation Studies,12,University of Glasgow,25290,2.1,7,1,0
+1122,Music Education - Instrumental and Vocal Teaching,12,University of York,23900,2.1,6.5,0,0
+1123,Computer Science (Conversion),30,University of Liverpool Online Programmes,6426,2.2,6.5,0,0
+1124,Haematology,24,Learna,4200,0,0,0,0
+1125,Geographic Information Systems (GIS) (full-time),12,Ulster University,15840,2.2,6,0,0
+1126,Middle East Politics,12,The University of Exeter,24300,2.2,6.5,0,1
+1127,Corporate Brand Management,12,Brunel University London,25000,2.2,6.5,1,1
+1128,"Design, Innovation and Brand Management",12,University for the Creative Arts,18000,0,0,0,0
+1129,International Hospitality and Tourism Management,12,Coventry University,20050,2.2,6.5,0,0
+1130,Occupational Therapy (Pre-Registration),24,Cardiff University,0,0,0,0,0
+1131,Organisational Psychology,12,University of Liverpool,27500,2.1,6.5,1,1
+1132,Education,12,University of Huddersfield,16000,2.1,0,0,1
+1133,Master of Business Administration (Global),24,University of Derby,6525,2.1,6,0,0
+1134,Sustainable Urban Management,3,Leeds Beckett University,2000,2.2,6,0,0
+1135,Health Technology,12,University of the West of England (UWE Bristol),17000,2.2,0,0,0
+1136,"Brands, Communication and Culture - Pre-Master's Programme",12,ONCAMPUS London,20580,0,5.5,1,1
+1137,Scientific Computing with Data Science,12,University of Bristol,34100,2.1,0,0,1
+1138,Modern and Contemporary History,12,University of Birmingham,23310,2.1,6.5,1,1
+1139,Dietetics,24,University College Birmingham,14500,0,0,0,0
+1140,Secondary Science with Biology,12,University of Huddersfield,16000,2.2,0,1,1
+1141,Strategic Marketing with Digital Media Management,12,University of Hertfordshire,16450,2.2,6.5,0,0
+1142,Secondary Science with Physics,12,London Metropolitan University,17600,2.2,6,1,0
+1143,Secondary Education - Drama,12,University of Wolverhampton,14950,0,6,1,0
+1144,Pre-registration Nursing (Mental Health),24,University of Plymouth,19000,2.2,7,1,1
+1145,Professional Practice Part 3 RIBA,12,London South Bank University,0,0,6.5,1,1
+1146,Research Methods in Psychology,12,University of Reading,26950,2.1,6.5,1,1
+1147,International Security Studies,12,University of Leicester,18950,2.1,6.5,0,1
+1148,Nursing (Adult) with NMC Registration,24,University of Derby,14900,2.2,6.5,0,0
+1149,Biomedical Engineering,12,Loughborough University,28750,2.2,6.5,0,1
+1150,Sport Management,12,University of Bath,28300,2.1,7,1,0
+1151,Public Health Intelligence - Pre-Master Programme (PMP),12,ONCAMPUS Southampton,23475,0,7,0,1
+1152,Digital Marketing and Analytics with Industrial Placement,24,University of Kent,22700,2.2,0,0,1
+1153,Entrepreneurship,12,Richmond American University in London,22890,2.2,0,1,0
+1154,Theology and Religion,12,University of Birmingham,21840,2.1,6.5,0,0
+1155,Translation and Professional Language Skills (Russian and Italian),12,University of Bath,26500,2.1,7.5,1,1
+1156,Economics - Pre-Master's Programme,9,University of Reading,21600,0,5.5,0,0
+1157,Secondary Education - Physical Education,12,University of Wolverhampton,14950,0,6,0,1
+1158,"Accounting, Financial Management and Digital Business",12,University of Reading,23900,2.1,6.5,0,0
+1159,Investments,12,University of Birmingham,34133,2.1,7,0,1
+1160,Finance,12,University of Dundee,20900,2.2,6,0,0
+1161,International Commercial Law  - Full-time (Online),24,The University of Law,11350,2.2,0,0,0
+1162,Sustainable Business Leadership (Professional Practice),18,University of Huddersfield,17900,2.1,7,1,0
+1163,International Relations and Global Crises,12,Sheffield Hallam University,17205,2.2,6.5,1,0
+1164,Human Rights and International Politics,12,University of Glasgow,24000,2.1,6.5,0,1
+1165,Responsible Tourism Management,9,Leeds Beckett University,11665,2.2,6,0,1
+1166,International Relations,12,University of Reading,22350,2.2,6.5,0,0
+1167,Financial Technology,12,University of Nottingham,30200,2.1,6.5,0,0
+1168,Management of Innovation - Pre-Master's Programme,12,ONCAMPUS London,20580,0,5.5,1,0
+1169,Work Psychology - Pre-Master Programme,12,Loughborough University,23280,0,0,0,0
+1170,Education,12,University of Nottingham,25250,2.2,6.5,1,0
+1171,Trauma Informed Practice,24,University of Nottingham,25250,2.2,6.5,0,0
+1172,Sociotechnical Futures and Digital Methods,12,University of Bath,0,2.1,0,0,1
+1173,Creative Technology,12,Leeds Beckett University,17500,2.2,6,1,1
+1174,Information Systems and Operations Management,12,University of Nottingham,28600,2.1,6.5,0,1
+1175,Marketing Management (Advanced Standing),12,University of Westminster,6500,2.2,6.5,0,0
+1176,Special and Inclusive Education,12,University of Nottingham,25250,2.2,6.5,1,1
+1177,International Law,12,The University of Exeter,24300,2.2,6.5,0,1
+1178,Mining and Minerals Engineering,24,The University of Exeter,28500,2.1,7,1,1
+1179,Digital Strategy and Information Systems - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+1180,Town and Regional Planning,12,University of Liverpool,22400,2.1,0,1,0
+1181,Civil Engineering with Management,12,The University of Exeter,29100,2.2,6.5,0,0
+1182,Fintech with Business Analytics,12,University of Westminster,19000,2.2,6.5,0,0
+1183,Applied Public Health,12,University of Central Lancashire (UCLan),16900,0,6.5,0,0
+1184,Chemical Engineering Science,12,University of Birmingham,27360,2.1,6,1,0
+1185,International Energy Studies and Energy Economics,12,University of Dundee,20900,2.2,6.5,0,0
+1186,International Marketing,12,Coventry University,22550,2.2,6.5,1,0
+1187,Public History - Pre-Master Programme,12,ONCAMPUS London,20580,0,5.5,0,1
+1188,Project Management,24,Unicaf - Liverpool John Moores,0,2.2,6,1,0
+1189,Physics,24,University of Liverpool,27800,1,0,0,1
+1190,Operational Research and Finance - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5,0,0
+1191,Human Resource Management top-up,12,Kingston University,16600,0,6.5,1,0
+1192,Design and Branding Strategy,12,Brunel University London,23615,2.2,6.5,0,0
+1193,Creative Writing (Distance Learning),12,Kingston University,16200,0,6.5,0,0
+1194,Corporate Social Responsibility and Sustainability - Part-time (1 year),12,The University of Law,11350,2.2,0,1,1
+1195,Digital Design (Motion Graphics),12,Brunel University London,25000,2.2,0,1,0
+1196,Web Design and Content Planning,12,University of Greenwich,17450,2.2,0,0,1
+1197,Environmental Engineering,12,Queen's University Belfast,25800,2.2,6.5,0,1
+1198,Legal Practice Course (LPC) - part-time evening,22,"The University of Law, Postgraduate programmes",8618,0,6.5,0,0
+1199,Education (Leadership and Policy),12,University of Bristol,27200,0,6.5,0,0
+1200,Mechanical Engineering Design,12,Bournemouth University,17750,2.2,6,1,1
+1201,Chemical Engineering Science,12,University of Birmingham,27360,2.1,6,0,1
+1202,International Energy Studies and Energy Economics,12,University of Dundee,20900,2.2,6.5,1,0
+1203,Celtic Archaeology,12,Bangor University,17000,2.2,0,0,0
+1204,Design and Branding Strategy,12,Brunel University London,23615,2.2,6.5,0,0
+1205,Finance - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,0
+1206,Medieval History - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+1207,Global Media and Digital Cultures (Online),24,SOAS University of London,6000,0,6.5,0,1
+1208,Quantity Surveying,12,Glasgow Caledonian University,16200,2.2,0,0,1
+1209,Business Analytics,12,University of Kent,22700,2.2,6.5,0,0
+1210,Marketing Management (Online),24,University of Aberdeen Business School,18210,2.2,0,0,1
+1211,Computer Animation and Visual Effects,12,Bournemouth University,17500,2.2,6.5,0,1
+1212,Military History,24,University of Wolverhampton,4198,0,6.5,1,0
+1213,Medical Education,12,Cardiff University,24450,0,0,0,0
+1214,International Oil and Gas Law and Policy,12,University of Dundee,20900,2.2,6.5,0,0
+1215,Artificial Intelligence for the Creative Industries,12,University of York,29400,2.1,0,1,1
+1216,Intellectual Property and Information Law,12,University of Hertfordshire,16450,2.2,6,0,1
+1217,Advanced Clinical Practice (Neurological Rehabilitation),12,Brunel University London,23615,0,0,1,1
+1218,Electrical and Electronic Engineering,12,University of Greenwich,16300,2.2,6.5,1,1
+1219,Sport Management,12,Loughborough University,29750,2.1,6.5,1,0
+1220,Real Estate Finance,12,University of Reading,25900,2.1,6.5,0,0
+1221,Early Modern History (Part time),24,University of East Anglia,21200,2.1,6,1,1
+1222,Child Health,24,University of Liverpool,27800,2.1,0,0,1
+1223,Development Economics,12,SOAS University of London,25320,2.2,6.5,1,1
+1224,Clinical Education,12,The University of Exeter,27500,2.2,6.5,0,0
+1225,Supply Chain Management - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,5,0,0
+1226,Corporate Governance and Business Ethics - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,0,0
+1227,Laws - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,1
+1228,Public Health,16,Glasgow Caledonian University,15500,2.2,6.5,1,1
+1229,Digital Marketing,30,University of Liverpool Online Programmes,6426,2.1,6.5,0,0
+1230,Drug Discovery and Development,12,Faculty of Biological Sciences,33000,2.1,6.5,1,0
+1231,Secondary Education (Science with Chemistry) with Recommendation for QTS,12,Brunel University London,19430,2.2,7,1,0
+1232,Global Mental Health and Wellbeing,24,University of Essex Online,6214,0,6.5,1,0
+1233,Human Rights and Global Ethics (Distance Learning),12,University of Leicester,8600,2.1,6.5,1,1
+1234,Social Work,24,University of Greenwich,8150,2.2,7,1,1
+1235,Information Management and Preservation,12,University of Glasgow,25290,2.1,6.5,1,0
+1236,Research in Human Geography,12,University of Birmingham,23310,2.1,6,1,0
+1237,Events Management,12,Bournemouth University,17000,2.2,6,0,0
+1238,Governance and Devolution,12,Cardiff University,22700,0,0,0,1
+1239,Management,12,Loughborough University,24500,2.2,6.5,1,1
+1240,Analytical and Pharmaceutical Science,12,Loughborough University,28750,2.2,6.5,0,1
+1241,Interpreting and Translating (French and Spanish),12,University of Bath,28300,2.1,7.5,0,0
+1242,Advanced Quantitative Methods,12,University of Bristol,20700,2.1,7,0,0
+1243,International Commercial Law - Full-time,12,"The University of Law, Postgraduate programmes",17000,2.2,0,1,0
+1244,Finance and Management,12,University of York,32260,2.1,0,0,0
+1245,Endodontics,36,University of Birmingham,11250,0,0,0,0
+1246,Sonic Arts,12,Leeds Beckett University,9000,2.2,6,0,1
+1247,Corporate Social Responsibility and Sustainability - Full-time,12,"The University of Law, Postgraduate programmes",18500,2.2,0,1,1
+1248,Product Design,12,University of Hertfordshire,15450,2.2,6.5,0,1
+1249,Contemporary Textiles,12,University of Hertfordshire,15450,2.2,6.5,0,0
+1250,International Relations,12,Brunel University London,23615,2.2,6.5,0,0
+1251,International Business,12,University of York,28680,2.2,6.5,1,1
+1252,Psychology,12,London South Bank University,16900,2.2,7,1,0
+1253,Music,12,University of Bristol,28400,2.1,6.5,1,1
+1254,Advanced Mechanical Engineering with Management,12,University of Leicester,24500,2.2,6.5,1,1
+1255,Psychology (Conversion),12,University of Dundee,21900,2.2,6,0,0
+1256,MSc by Research Life Sciences,12,University of Dundee,28385,2.2,6.5,0,0
+1257,Educational Research,12,The University of Exeter,22700,2.2,6.5,0,1
+1258,Political Communication,12,Brunel University London,21260,2.2,6.5,0,0
+1259,International History,12,University of Leeds,0,2.1,0,1,0
+1260,Real Estate Management and Investment,12,Edinburgh Napier University,17280,2.2,6,1,0
+1261,"Strategic Communication, Leadership and Sustainability",12,University of Huddersfield,16000,2.2,6,1,1
+1262,"Infection, Immunity and Inflammation",12,University of Glasgow,30240,2.1,6.5,0,1
+1263,Entrepreneurship and Innovation - Pre-Master's Programme,9,University of Reading,21600,0,5.5,0,0
+1264,Film (Cinematography),12,University of South Wales,0,2.2,6,0,1
+1265,Chinese-English Translation,12,University of Bristol,31300,2.1,7,0,0
+1266,Ceramics,12,University of Central Lancashire (UCLan),15500,2.2,6.5,0,1
+1267,Creative Writing Scriptwriting,12,University of East Anglia,21200,2.1,7,0,1
+1268,Exercise and Sports Medicine (Football),13,University of Birmingham,28350,2.1,6.5,0,1
+1269,Politics,12,Queen's University Belfast,21500,2.1,6.5,0,0
+1270,Advertising,12,Bournemouth University,17500,2.2,6.5,1,1
+1271,Advanced Engineering Management,12,Leeds Beckett University,17500,2.2,6,0,0
+1272,Sport and Exercise Psychology,12,Leeds Beckett University,3300,2.2,6.5,0,1
+1273,Finance,12,Coventry University,20050,2.2,6.5,1,1
+1274,Sustainable Development in Practice,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,1
+1275,Applied Meteorology and Climate with Management,12,University of Reading,25800,2.2,6.5,0,1
+1276,Independent and Supplementary Prescribing,6,The University of Exeter,2300,2.2,6.5,1,0
+1277,"Diplomacy, International Business and Trade - Pre-Master Programme",12,Loughborough University,23280,0,0,0,0
+1278,"Speech, Language and Sociolinguistics",12,University of Glasgow,24000,2.1,7,0,0
+1279,Languages and Translation Studies,12,Cardiff University,24450,2.1,7,1,0
+1280,History,24,University of Liverpool,27800,2.1,0,1,1
+1281,"Security, Peace-Building and Diplomacy",12,Loughborough University,24500,2.2,6.5,0,0
+1282,Equitation Science,36,University of Plymouth,0,0,6.5,1,0
+1283,Advanced Critical Care Practitioner,12,University of Plymouth,0,0,6.5,0,0
+1284,Business Management,12,Edinburgh Napier University,18800,2.2,6,1,0
+1285,Biomedical and Molecular Sciences with Business,12,University of Dundee,21900,2.2,6.5,1,1
+1286,Leadership for Sustainable Rural Development,12,Queen's University Belfast,21500,2.2,6,0,0
+1287,Risk and Finance - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5,0,0
+1288,Business and Public Service Interpreting and Translation Studies,12,University of Leeds,0,0,0,1,1
+1289,Nursing - Advancing Professional Practice,12,Glasgow Caledonian University,15500,2.2,6.5,0,0
+1290,Women's Health,24,Learna,4814,0,0,0,1
+1291,The Loughborough Full-Time Master of Business Administration,12,Loughborough University,32000,2.2,6.5,1,0
+1292,Medical Art,12,University of Dundee,21900,2.2,6.5,0,1
+1293,Practical Dermatology,12,Cardiff University,9450,0,0,0,0
+1294,Law (Conversion),11,"The University of Law, SQE",15050,2.2,0,1,1
+1295,Archaeology,12,University of Liverpool,21850,2.1,0,0,0
+1296,Mathematical Sciences,12,University of Liverpool,26400,2.1,0,0,0
+1297,Secondary Initial Teacher Education Business,12,University of the West of England (UWE Bristol),15850,2.2,6.5,0,0
+1298,Comparative Literature,12,University of St Andrews,25880,2.1,7,0,1
+1299,Secondary Initial Teacher Education Modern Languages,12,University of the West of England (UWE Bristol),15850,2.2,6.5,1,0
+1300,Emergency and Incident Management,12,Coventry University,6200,2.2,6,1,0
+1301,Archaeology,12,University of Liverpool,21850,2.1,0,1,1
+1302,Mathematical Sciences,12,University of Liverpool,26400,2.1,0,1,1
+1303,Eye and Vision Sciences,24,University of Liverpool,27800,2.1,0,0,0
+1304,Business Management with a Professional Placement Year,24,Cardiff University,27200,0,0,0,0
+1305,Applied Clinical Psychology,24,University of Bath,28300,2.1,6.5,0,0
+1306,Comparative Literature,12,University of St Andrews,25880,2.1,7,0,1
+1307,Secondary Initial Teacher Education Modern Languages,12,University of the West of England (UWE Bristol),15850,2.2,6.5,0,1
+1308,Interpreting and Translation,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,0
+1309,Tourism and Hospitality Management,12,University of Plymouth,18400,0,6.5,0,1
+1310,Data Science,16,University of Essex Online,6213,0,6.5,0,0
+1311,Medical Art,12,University of Dundee,21900,2.2,6.5,0,0
+1312,Practical Dermatology,12,Cardiff University,9450,0,0,0,0
+1313,Law (PGDL) - Part-time evening,20,"The University of Law, SQE",6570,2.2,0,1,1
+1314,Master of Law (General) - Full-time (Online),12,The University of Law,11350,2.2,0,1,1
+1315,Computational and Data Journalism,12,Cardiff University,23450,0,0,0,0
+1316,"Human Rights, Conflict and Justice",12,SOAS University of London,25740,2.1,6.5,1,0
+1317,Muslim Minorities in a Global Context (Online),24,SOAS University of London,6000,2.1,6.5,0,0
+1318,International Business Management,12,Glasgow Caledonian University,17950,2.2,6,0,0
+1319,Advanced Software Engineering,12,University of Leicester,23650,2.1,6,0,1
+1320,English Studies,12,University of Nottingham,22600,2.1,6.5,0,1
+1321,Business Analysis and Finance,12,University of Leicester,23650,2.2,6.5,1,1
+1322,Hispanic Studies,12,University of Birmingham,21840,2.1,6.5,0,1
+1323,Music and Sound Technology (Audio Engineering),12,University of Hertfordshire,16450,0,6.5,1,0
+1324,International Events Management,12,Leeds Beckett University,11665,2.2,6,0,0
+1325,Wireless Communications and Signal Processing,12,University of Bristol,34200,2.1,6.5,1,1
+1326,Teaching English to Speakers of Other Languages (TESOL) (with Placement),18,University of Huddersfield,17000,2.2,6.5,1,1
+1327,Mental Health Research,12,University of York,22040,2.1,0,0,1
+1328,Global Operations and Supply Chain Management,12,University of Derby,14900,2.2,0,0,1
+1329,Education Studies (with Professional Experience),24,University of Portsmouth,17900,2.2,6.5,1,1
+1330,Public International Law - Part-time,24,"The University of Law, Postgraduate programmes",9250,2.2,0,1,1
+1331,Business Administration - Global Finance,12,University of Derby,16500,2.1,0,0,1
+1332,"Law, Technology and Innovation",12,University of South Wales,0,2.2,0,1,1
+1333,Advanced Restorative Dental Therapy (Distance Learning) (Top-Up),12,University of Portsmouth,7100,0,0,0,0
+1334,Ecology and Environmental Biology,12,University of Glasgow,28260,2.1,6.5,0,1
+1335,Education,12,University of Greenwich,16300,2.2,6.5,0,1
+1336,Civil Engineering Technical Route,12,Coventry University,18600,2.2,6.5,0,0
+1337,Leading and Developing Services,60,Bournemouth University,0,2.2,6,1,1
+1338,Sociology,12,University of Bristol,27400,2.1,6.5,0,1
+1339,Law,24,University of Bristol,26700,2.1,7,0,1
+1340,Social and Political Theory - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,1
+1341,Comics and Graphic Novels,12,University of Dundee,21900,2.1,6.5,0,1
+1342,Digital Marketing - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,1
+1343,Land and Hydrographic Surveying with Work Placement,15,University of Glasgow,28260,2.1,6.5,0,0
+1344,Interpreting and Translating (Italian and Spanish),12,University of Bath,28300,2.1,7.5,0,1
+1345,Advanced Physiotherapy Practice,12,Glasgow Caledonian University,15500,2.2,6,1,1
+1346,Public Health,30,University of Liverpool Online Programmes,6426,2.1,6.5,0,0
+1347,Business Administration,12,University of Kent,24600,2.2,6.5,0,0
+1348,Management (Marketing),12,University of Bristol,31500,2.1,7,1,0
+1349,Exercise and Sport Sciences,12,University of Birmingham,23520,2.1,6,1,1
+1350,Banking and Finance,12,Brunel University London,26400,2.2,6.5,1,1
+1351,Management with Human Resources,12,Bournemouth University,17500,2.2,6,0,1
+1352,Health Psychology,12,University of the West of England (UWE Bristol),16500,2.1,6.5,0,1
+1353,Global Heritage,12,Cardiff University,0,0,0,0,0
+1354,Geospatial Geoscience and Modelling,12,University of Glasgow,28260,2.1,0,1,0
+1355,Applied Neuropsychology,12,University of Bristol,21200,2.1,0,0,1
+1356,Academic Practice (Online),30,University of Liverpool,16065,2.1,0,1,0
+1357,Geography,24,The University of Exeter,22600,2.1,6.5,0,1
+1358,Diagnostic Radiography and Imaging (Pre-Registration),24,University of Hertfordshire,18950,2.1,7,1,1
+1359,Construction Project Management (Work Experience),24,Sheffield Hallam University,8602,2.2,6.5,1,0
+1360,Spanish Studies,12,University of Liverpool,21850,2.1,0,1,0
+1361,Space Systems Engineering - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5,0,1
+1362,Cyber Security and Digital Forensics (Distance Learning),24,University of Portsmouth,5250,2.1,0,0,1
+1363,International Tourism and Aviation Management (Work Experience),24,Sheffield Hallam University,8602,2.2,6.5,1,0
+1364,Multimedia Journalism (Broadcast),12,University of Westminster,17000,2.1,7,1,1
+1365,Education (Educational Practice),8,University of Essex Online,4143,0,6.5,1,1
+1366,Science - Research,36,University of Greenwich,16300,2.2,6.5,0,1
+1367,Biblical Languages and Literature,12,University of St Andrews,25880,2.1,7,0,1
+1368,International Political Theory,12,University of St Andrews,29950,2.1,7,1,1
+1369,Curation - Contemporary Art and Cultural Management,12,The University of Exeter,25000,2.1,6.5,0,0
+1370,Advanced Engineering Design,12,Brunel University London,25000,2.2,6,1,1
+1371,Business Analytics and Consultancy,12,University of Hertfordshire,16450,2.2,6.5,1,0
+1372,Primary (7-11) (Key Stage 2),12,London Metropolitan University,17600,2.2,6,0,0
+1373,Financial Technology with Data Science,12,University of Bristol,34200,2.1,6.5,1,1
+1374,International Law,12,SOAS University of London,25740,2.1,6.5,0,0
+1375,Sustainable Heritage Management,12,University of Liverpool,24800,2.1,0,0,1
+1376,Data Science (Online),36,University of St Andrews,6000,2.1,7,1,0
+1377,"Violence, Conflict and Development",12,SOAS University of London,25320,2.2,6.5,1,1
+1378,Evolution and Genomics,12,University of East Anglia,25150,2.1,7,0,0
+1379,International Business and Sustainability,12,King Stage Business School,12000,0,6,1,0
+1380,Landscape Architecture,12,UCL,34400,2.2,7,0,0
+1381,Digital Art and Technology,12,University of Plymouth,16500,0,6.5,1,0
+1382,Engineering Management,12,Coventry University,20050,2.2,6.5,1,1
+1383,"Hispanic, Portuguese and Latin American Studies",12,University of Bristol,20700,2.1,6.5,1,1
+1384,Childhood Practice,36,University of Glasgow,482,0,0,1,0
+1385,International Law and Security,12,University of Birmingham,24120,0,0,0,0
+1386,Construction Management and International Development,12,University of Reading,26950,2.2,6.5,1,1
+1387,Financial Risk Management - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+1388,Working for Children and Young People (Youth Work Initial Qualifying),12,University of South Wales,15100,2.2,6,1,1
+1389,International Management,12,University of Leicester,23650,2.2,6.5,0,0
+1390,Spinal Pain,12,University of Birmingham,23520,2.1,6.5,0,1
+1391,Strategic Marketing with Brand Leadership (Experiential Learning),24,University of Hertfordshire,17950,2.2,6.5,0,0
+1392,Environmental Health,12,Leeds Beckett University,17500,2.2,6,1,1
+1393,Childhood Studies and Early Years,12,Leeds Beckett University,9846,2.2,6,1,1
+1394,Translation and Interpreting,12,University of Westminster,17000,2.2,6.5,0,0
+1395,International Tourism Management,12,Sheffield Hallam University,17205,0,6.5,1,1
+1396,"Media, Communications and International Journalism",12,University of Glasgow,25290,2.1,6.5,0,0
+1397,Genomics Geoinformatics - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,1
+1398,"Humanitarianism, Aid and Conflict",12,SOAS University of London,25320,2.2,6.5,0,0
+1399,Wireless and Microwave Communication Engineering with a Research Year,24,Cardiff University,28200,0,0,0,1
+1400,Marketing,12,Durham University,31500,2.1,7,1,1
+1401,Conservation Studies (by research),12,University of York,22200,0,6.5,0,0
+1402,Nanotechnology and Microfabrication,12,Bangor University,18300,2.1,0,1,0
+1403,International Money and Banking,12,University of Birmingham,26280,2.1,6.5,0,0
+1404,Advanced Practice in Health Care,12,University of Glasgow,28260,0,6.5,0,0
+1405,Advanced Mechanical Engineering,12,University of Leicester,21850,2.2,6,0,1
+1406,Psychology of Exercise Rehabilitation,12,Loughborough University,30500,2.1,6.5,0,1
+1407,Public Health (Online),30,University of Liverpool,6426,2.1,6.5,1,0
+1408,"Law, Environment, Sustainability and Business",12,University of Bristol,26700,2.1,0,1,1
+1409,Electrical Engineering and Electronics,24,University of Liverpool,27800,2.1,0,0,0
+1410,Drug Discovery and Toxicology with Advanced Research,24,University of Hertfordshire,18950,0,6.5,0,0
+1411,Genomic Medicine,12,The University of Exeter,29700,2.2,6.5,1,1
+1412,Building Information Modelling and Digital Transformation (BIM-DT),12,University of Liverpool,24800,2.1,0,1,0
+1413,Biomedical Imaging and Biosensing,24,University of Liverpool,27800,2.1,0,1,0
+1414,Spatial Planning and Development,12,University of Reading,17300,2.1,6.5,1,1
+1415,Early Childhood Education,12,University of Hertfordshire,15450,2.2,7,1,0
+1416,Medieval Studies,12,University of St Andrews,25880,2.1,7,0,1
+1417,French,12,University of Bristol,20700,2.1,6.5,0,1
+1418,Sustainable Mega-Buildings,12,Cardiff University,28200,0,0,0,1
+1419,Creative Writing - Translation,12,Fairleigh Dickinson University,19410,0,6,0,1
+1420,Health Psychology,12,University of Portsmouth,19200,2.1,6.5,0,0
+1421,Education (Education and Climate Change),12,University of Bristol,27200,0,0,1,1
+1422,Endodontics,24,University of Glasgow,50490,0,7,1,0
+1423,Law,12,University of Glasgow,27090,2.1,7,1,1
+1424,Forensic Art and Facial Identification,12,University of Dundee,21900,2.1,6.5,0,0
+1425,Education,12,London Metropolitan University,18150,2.2,6.5,0,1
+1426,Data Science,12,University of East Anglia,22900,2.1,6,1,0
+1427,Sport and Exercise Medicine,48,University of Bath,7795,0,0,0,0
+1428,Management (International Business) - Pre-Master's Programme,9,University of Reading,21600,0,5,0,1
+1429,ELT-TESOL Studies - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,1
+1430,"Security, Conflict and Human Rights",12,University of Bath,22400,2.1,6.5,1,1
+1431,Master of Business Administration (Strategic Project Management),24,Edinburgh Napier University,10260,0,6,0,0
+1432,Media Industries,12,University of Leeds,0,2.1,0,1,1
+1433,Digital Marketing,12,University of the West of England (UWE Bristol),16750,2.2,6.5,1,1
+1434,Animation,12,University of Hertfordshire,16450,2.2,6.5,0,1
+1435,Environmental Geology and Land Contamination,12,University of Portsmouth,19200,2.2,6.5,0,0
+1436,Human Factors and Ergonomics for Patient Safety,12,Loughborough University,9366,2.1,6.5,0,0
+1437,International Business Economics,12,Coventry University,20050,2.2,6.5,1,0
+1438,International Business,12,University of Nottingham,28600,2.1,6.5,0,1
+1439,Community Health Studies (Specialist Practitioner District Nursing),36,University of South Wales,0,0,0,1,1
+1440,Advanced Physiotherapy,36,University of Hertfordshire,825,0,7,1,0
+1441,Law (General),12,University of Liverpool,22400,2.1,0,0,0
+1442,Geography,24,University of Liverpool,27800,2.1,0,0,1
+1443,Economic Crime,12,University of Portsmouth,17200,2.2,6.5,0,1
+1444,Sport Business Management,12,Leeds Beckett University,17500,2.2,6.5,1,1
+1445,Strategic Leadership,36,Loughborough University,28500,2.2,6.5,1,0
+1446,Marketing and Financial Management,9,The University of Exeter,31000,2.2,0,0,1
+1447,International Business with Project Management (Professional Practice),18,University of Huddersfield,17900,2.1,7,0,1
+1448,Law,12,Queen's University Belfast,21500,2.2,6.5,1,0
+1449,Legal Practice,12,University of Westminster,13000,2.2,6.5,0,0
+1450,Public Procurement Law and Policy,24,University of Nottingham,13000,2.1,6.5,0,1
+1451,Bar Training Course,12,University of the West of England (UWE Bristol),15750,2.2,6.5,1,1
+1452,Secondary Initial Teacher Education Art and Design,12,University of the West of England (UWE Bristol),15850,2.2,6.5,0,0
+1453,Sustainable Environmental Management,12,University of Plymouth,19800,0,6.5,0,1
+1454,Natural Resources,12,University of Greenwich,17450,0,6,0,1
+1455,Economics and Finance - Pre-Master's Programme,9,University of Reading,21600,0,5.5,1,0
+1456,Entrepreneurship and Innovation,12,University of Reading,21900,2.2,6.5,0,1
+1457,Social History,12,Leeds Beckett University,17500,2.2,6,1,0
+1458,Medical Imaging,12,University of Dundee,25300,2.2,6,0,1
+1459,Accounting and Finance,12,Cardiff University,29200,2.1,6.5,0,0
+1460,Reparatory Justice,12,University of Glasgow,24000,2.1,0,0,0
+1461,International Commercial Law and Arbitration with Work Experience,24,University of Hertfordshire,17950,2.2,6,1,1
+1462,Prosthetics for Film and Television,18,University College Birmingham,14500,2.2,6,0,1
+1463,Higher Education,12,University of Huddersfield,575,2.2,6,1,1
+1464,International Law,12,University of Huddersfield,16000,2.2,6,1,0
+1465,Business Management - Finance,12,European School of Economics,28000,2.2,6.5,1,0
+1466,Leadership in Sport,24,University of South Wales,15100,2.2,6,1,1
+1467,Strength and Conditioning,24,University of Central Lancashire (UCLan),1000,2.2,6.5,1,1
+1468,Health and Social Care Leadership and Management,12,London Metropolitan University,18150,0,6,1,1
+1469,Primary with Qualified Teacher Status,12,University of Derby,14900,2.2,7,0,0
+1470,Medical Molecular Biology with Genetics,12,Bangor University,24000,2.2,6,0,1
+1471,Linguistics,36,Bangor University,21000,2.2,6,1,1
+1472,International Banking and Finance,12,University of Greenwich,18750,2.2,6,1,1
+1473,Environment and Sustainability - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,0,1
+1474,Online Master Business Administration,30,University of Birmingham,9713,2.1,6.5,1,0
+1475,Environmental Law - Part-time (Online),24,The University of Law,11350,2.2,0,1,1
+1476,Management (International HRM),12,University of Bristol,31500,2.2,7,0,1
+1477,Cyber Security - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5,1,1
+1478,Political and Legal Philosophy,12,University of York,23900,2.1,7,1,1
+1479,Interior Design,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,1
+1480,Dementia Studies,12,University of South Wales,16000,2.1,0,0,0
+1481,Diplomacy and Sport,12,Loughborough University,24500,2.2,6.5,1,0
+1482,Psychology (Distance Learning),24,University of Portsmouth,4700,2.2,6.5,0,1
+1483,Product Design,24,University of Dundee,10950,2.1,6,0,1
+1484,Advanced Mechanical Engineering,12,University of Liverpool,28000,2.1,0,1,1
+1485,Advanced Healthcare Practice,18,Cardiff University,27450,0,0,0,0
+1486,Chemistry,12,University of Leicester,23650,2.2,6,1,1
+1487,Secondary Education (11-16) with Recommendation for Qualified Teacher Status - Physical Education,9,Leeds Beckett University,9250,2.2,6.5,1,0
+1488,Artificial Intelligence and Robotics with Advanced Research,24,University of Hertfordshire,18950,0,6,1,0
+1489,Project Management - International (Distance Learning),24,University of Greenwich,5434,2.2,6.5,0,0
+1490,Business Administration,24,Unicaf - University of Suffolk,0,2.2,6,0,0
+1491,Entrepreneurship and Innovation,12,University of Leicester,21850,2.2,6.5,0,0
+1492,International Commercial Law,12,University of Birmingham,24120,0,7,1,0
+1493,Cancer Biology,12,Sheffield Hallam University,17205,2.1,0,1,1
+1494,Philosophy,12,University of York,23900,2.1,7,0,1
+1495,Environmental Assessment and Management,12,University of East Anglia,22750,2.1,6,0,1
+1496,Engineering Management,12,Brunel University London,9525,2.2,6,0,0
+1497,Mechanical Engineering,36,University of Portsmouth,19200,0,6,1,0
+1498,Strategic Communication and Leadership,12,University of Huddersfield,16000,2.2,6,0,1
+1499,Human Resource Management,12,Glasgow Caledonian University,17950,2.2,6.5,1,0
+1500,International Relations,12,Leeds Beckett University,17500,2.2,6,1,0
+1501,Marketing and Brand Management,12,Kingston University,18900,2.2,6.5,1,0
+1502,Photography,12,University of Portsmouth,17200,2.1,6.5,0,0
+1503,Magazine Journalism,12,Cardiff University,22700,0,0,0,0
+1504,Design Strategy and Innovation,12,Brunel University London,23615,2.2,6.5,1,1
+1505,Sociology,12,Cardiff University,0,0,0,0,1
+1506,"Psychology of the Arts, Neuroaesthetics and Creativity - Pre-Master's Programme",12,ONCAMPUS London,20580,0,5.5,0,1
+1507,Queer Studies,12,University of York,23900,2.1,0,0,1
+1508,Criminology,12,Loughborough University,24500,2.2,6.5,1,1
+1509,Decarbonisation,12,University of Bath,0,2.2,0,1,1
+1510,International Finance and Banking,12,The University of Exeter,31000,2.2,0,1,1
+1511,Relational Design,12,Bangor University,19600,0,0,1,0
+1512,English Literature,12,University of Leicester,19700,2.1,6.5,1,0
+1513,Business Management (Learning at Work),0,University of Portsmouth,12000,0,6,1,1
+1514,Industrial Pharmaceutics,12,Queen's University Belfast,25800,2.1,6.5,1,0
+1515,North Korean Studies,12,University of Central Lancashire (UCLan),16900,2.1,7,1,1
+1516,American Studies (Part Time),24,University of East Anglia,21200,2.1,6.5,1,0
+1517,Neuroscience,12,University of St Andrews,29950,2.1,7,1,1
+1518,Modern History,12,University of East Anglia,21200,2.1,6,0,1
+1519,Brain Sciences,12,University of Glasgow,30240,2.1,6.5,0,1
+1520,"Security, Conflict and Human Rights",12,University of Bristol,20100,2.1,6.5,1,1
+1521,Sport and Exercise Psychology,12,Sheffield Hallam University,17205,0,6,1,1
+1522,Sport and Exercise Psychology,12,Brunel University London,23615,2.2,7,1,1
+1523,Data Protection and Intellectual Property - Full-time,12,"The University of Law, Postgraduate programmes",17000,2.2,0,0,1
+1524,Mechanical Engineering,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,0
+1525,Global Operations and Supply Chain Management,12,University of Bristol,32300,2.1,7,0,0
+1526,Science with Biology,12,University of Portsmouth,17200,2.2,6.5,0,0
+1527,Teaching English to Speakers of Other Languages - TESOL,12,University of Dundee,20900,0,6.5,1,0
+1528,Psychology,30,University of Liverpool Online Programmes,6426,2.1,6.5,1,1
+1529,Sport and Exercise Biomechanics,12,Leeds Beckett University,17500,2.2,6.5,0,0
+1530,Musculoskeletal Sport Science and Health,12,Loughborough University,30500,2.1,6.5,0,0
+1531,Interior Design,12,Coventry University,18600,0,6.5,0,0
+1532,Intelligence and Security (Distance Learning),12,University of Leicester,8600,2.1,6.5,1,0
+1533,Advanced Civil Engineering,12,University of Nottingham,28600,2.1,6,1,1
+1534,Health-Professions Education - Health-Professions Education (With Research),36,University of Glasgow,5000,0,0,0,1
+1535,Economics with Data Science,12,University of Bristol,32900,2.1,0,1,1
+1536,Project Management - Pre-Master Programme,12,ONCAMPUS London,20580,0,5.5,1,0
+1537,Drug Discovery with Industrial Training,21,University of Nottingham,24160,2.1,7.5,1,1
+1538,Physics (by research),12,University of York,27900,0,6,0,1
+1539,Forensic Archaeology and Anthropology,12,University of Dundee,20600,2.1,6.5,1,1
+1540,Environmental Sciences,12,University of Liverpool,26400,2.1,0,0,1
+1541,Vaccinology,24,University of Liverpool,27800,2.1,0,0,1
+1542,Biomedical Sciences,12,University of York,29400,2.1,6.5,1,0
+1543,Documentary Filmmaking,18,Leeds Beckett University,13000,2.2,6,1,0
+1544,Accounting and Finance (CIMA Gateway),12,Abertay University,17000,2.2,6,0,1
+1545,Food Studies,12,The University of Exeter,24300,2.2,6.5,0,0
+1546,Material Culture and Artefact Studies,12,University of Glasgow,24000,2.1,7,1,0
+1547,Psycholinguistics,12,University of York,25080,2.1,7,0,0
+1548,History,12,Bangor University,17000,2.2,0,1,0
+1549,Sports and Exercise Therapy,12,Leeds Beckett University,17500,2.2,6,1,0
+1550,Public Administration and Public Policy,12,University of York,23900,2.1,6.5,0,0
+1551,Architectural Studies,24,Cardiff University,14100,0,0,1,0
+1552,Composition of Music for Film and Television,12,University of Bristol,28400,2.1,6.5,0,1
+1553,Modern Foreign Languages - German and French,12,University of Portsmouth,17200,2.2,6.5,0,1
+1554,Public Health - Statement of Extra Accredited Learning (SEAL),24,University of Birmingham,15238,0,6.5,1,0
+1555,International Relations,24,Unicaf - Liverpool John Moores,0,2.2,6,1,0
+1556,Mathematics Education,12,University of Plymouth,17600,2.1,6.5,1,0
+1557,Communication Design - Book Design - Pre-Master's Programme,9,University of Reading,21600,0,5.5,1,1
+1558,Japanese Cultural Studies - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,1
+1559,International Corporate Governance - Full-time (Online),12,The University of Law,11350,2.2,0,0,0
+1560,Management,12,University of Liverpool,21850,2.1,0,1,0
+1561,International Human Resource Management,16,University of Essex Online,6213,0,6.5,0,1
+1562,International Commercial and Economic Law,12,SOAS University of London,25740,2.1,6.5,0,1
+1563,Finance,12,University of Kent,20000,2.2,6.5,0,1
+1564,Critical Care,24,Learna,4200,0,0,1,0
+1565,The Loughborough Executive Master of Business Administration,36,Loughborough University,32000,2.2,6.5,1,1
+1566,Public Health - Health Promotion,12,Leeds Beckett University,8250,2.2,6.5,1,1
+1567,Geotechnical Engineering,12,University of Birmingham,29340,2.1,6.5,1,1
+1568,Urban and Regional Planning (RTPI Accredited),12,University of Birmingham,26280,2.1,6,0,0
+1569,Advanced Computer Science,24,The University of Hertfordshire Online,4950,0,0,1,1
+1570,Polymer Science and Engineering - Pre-Master Programme,12,Loughborough University,23280,0,0,1,0
+1571,Digital and Technological Society,12,University of Bristol,28200,0,0,0,1
+1572,Photography - The Image and Electronic Arts - Pre-Master's Programme,12,ONCAMPUS London,20580,0,5.5,0,1
+1573,Employment Law  - Part-time,24,"The University of Law, Postgraduate programmes",9250,2.2,0,0,1
+1574,3D Design,12,Leeds Beckett University,17500,2.2,6.5,1,0
+1575,Accounting and Management,12,University of York,32260,2.1,0,0,0
+1576,Earth Sciences,12,Cardiff University,24450,2.1,6.5,1,0
+1577,Cancer and Genomic Sciences,12,University of Birmingham,27360,2.1,6.5,1,0
+1578,International Criminology and Criminal Justice,12,Cardiff University,23200,0,0,1,0
+1579,Computer Science,12,University of Bristol,26000,2.1,6.5,1,0
+1580,History,12,University of Liverpool,21850,2.1,0,0,1
+1581,Human Resource Management,12,The University of Exeter,30000,2.2,7,0,1
+1582,Modern and Contemporary Literature and Culture,12,University of St Andrews,25880,2.1,7,0,1
+1583,Earth Sciences,12,University of Bristol,26000,2.1,6.5,1,0
+1584,Space Exploration Systems,12,University of Leicester,23650,2.1,6,0,0
+1585,Secondary Initial Teacher Education Computer Science,12,University of the West of England (UWE Bristol),15850,2.2,6.5,0,1
+1586,Wildlife Filmmaking,12,University of the West of England (UWE Bristol),17250,0,6.5,1,0
+1587,Clinical Pharmacology,12,University of Glasgow,31860,2.1,6.5,1,1
+1588,Civil Engineering and Management,12,University of Glasgow,29370,2.1,6.5,0,0
+1589,IT Security,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,1
+1590,Finance and Investment,12,University of Bristol,39000,2.1,6.5,1,1
+1591,Intercultural Communication for Business and Professions - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+1592,Structural Molecular Biology - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,0,0
+1593,Nursing,12,Coventry University,18600,2.2,6.5,0,1
+1594,Research Typography and Graphic Design - Pre-Master's Programme,9,University of Reading,21600,0,5.5,1,1
+1595,Psychological Research Methods,12,University of Dundee,21900,2.2,6.5,1,0
+1596,Law (SQE1) - Full-time,13,"The University of Law, SQE",12876,2.2,0,1,1
+1597,Roman Archaeology,12,University of York,23900,2.1,6.5,0,0
+1598,Organisational Psychology,8,University of Essex Online,4143,0,6.5,0,0
+1599,Entrepreneurship and Business Development,18,Leeds Beckett University,17500,2.2,6.5,1,1
+1600,Scriptwriting,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,1
+1601,Computer Science,12,Coventry University,18250,2.2,6.5,0,1
+1602,Management (International Business),12,University of Reading,24900,2.1,6.5,0,0
+1603,Development Economics and Emerging Markets,12,University of York,23900,2.1,6.5,1,0
+1604,International Shipping,12,University of Plymouth,18400,0,6.5,0,1
+1605,Film,12,Queen's University Belfast,21500,2.2,6.5,0,1
+1606,Electronics Engineering (18-month route),18,University of Hertfordshire,16450,0,6,0,0
+1607,Clinical Psychology,24,University of Liverpool,27800,2.1,0,0,1
+1608,International Disputes Law,12,University of Birmingham,24120,0,0,0,1
+1609,Marketing,12,The University of Law Business School,15850,0,6.5,1,0
+1610,Visual Journalism,12,University of South Wales,15850,2.2,0,0,1
+1611,Advanced Materials Science and Engineering - Pre-Master Programme,12,Loughborough University,23280,0,0,1,1
+1612,"Environmental Monitoring, Research and Management - Pre-Master Programme",12,Loughborough University,23280,0,0,1,0
+1613,Company Law and Corporate Governance,12,University of Bristol,26700,0,0,0,1
+1614,Cyber Security and Data Analytics,12,Loughborough University,28750,2.2,6.5,0,0
+1615,Entrepreneurship and Business Development,18,Leeds Beckett University,17500,2.2,6.5,1,1
+1616,Scriptwriting,12,University of Central Lancashire (UCLan),16900,2.2,6.5,1,1
+1617,Machine Learning and Autonomous Systems,12,University of Bath,31600,0,6.5,0,1
+1618,Philosophy,24,London Metropolitan University,14500,0,6,1,0
+1619,Educational Leadership and Management (Distance Learning),24,University of Portsmouth,2970,2.2,0,0,0
+1620,Management - Pre-Master's Programme,9,University of Reading,21600,0,5,1,0
+1621,Global Diplomacy - South Asia (Online),24,SOAS University of London,6000,2.1,6.5,1,1
+1622,Applied Health Economics,24,Learna,4200,0,0,0,1
+1623,Stroke Medicine,24,Learna,3900,0,0,0,0
+1624,Art Business,12,Kingston University,21900,2.2,6.5,1,1
+1625,Global Meetings and Events Management,12,University College Birmingham,14500,2.2,0,1,1
+1626,Economic Evaluation for Health Technology Assessment,12,University of York,9470,2.1,6.5,1,0
+1627,Accounting and Finance,12,Bangor University,19500,2.2,6,0,1
+1628,International Oil and Gas Management (distance learning),60,University of Dundee,11030,2.2,6.5,0,1
+1629,"International Law, Ethics and Politics",12,University of Birmingham,24120,2.1,6.5,0,0
+1630,Tourism Marketing Management,12,Bournemouth University,17000,2.2,6,0,0
+1631,Laws,12,University of Hertfordshire,15450,1,6,0,0
+1632,International Business,12,University of Birmingham,30330,2.1,6.5,0,0
+1633,Integrative Counselling,24,Leeds Beckett University,17500,2.2,6,1,0
+1634,Clinical Embryology and In Vitro Fertilisation (distance learning),24,University of Dundee,4725,2.1,0,0,1
+1635,Community Education (CLD Standards Council approved qualifying route),36,University of Dundee,7170,0,6.5,1,0
+1636,Advanced Imaging and Sensing,12,University of Glasgow,30240,2.1,6.5,0,1
+1637,Law,24,University of Portsmouth,17900,0,7,1,0
+1638,"Education, Ethics and Leadership",12,Leeds Beckett University,7000,2.2,6,0,0
+1639,Data Driven Design,12,Loughborough University,28750,2.2,6.5,0,0
+1640,Clinical Neuropsychology Practice,12,University of Bristol,5400,0,0,0,1
+1641,Strategic Leadership,24,University of Portsmouth,10800,2.2,0,0,1
+1642,Interdisciplinary Psychology,12,Leeds Beckett University,17500,2.2,6,1,1
+1643,Arts - English,12,University of Liverpool,21850,2.1,0,1,0
+1644,Human Resource Management - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,5,1,0
+1645,Financial Economics - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,1
+1646,Master of Business Administration,14,University of Wolverhampton,6634,0,6,0,1
+1647,Managing Art and Cultural Heritage in Global Markets,24,University of Glasgow,18060,2.1,7,1,0
+1648,Management - Pre-Master Programme,12,Loughborough University,23280,0,0,0,0
+1649,Human Resource Management,24,Leeds Beckett University,3500,2.2,6,1,0
+1650,International Business and Entrepreneurship,12,University of Dundee,20900,2.2,6,1,0
+1651,Earth Sciences,12,University of Birmingham,27360,2.1,6,1,0
+1652,Playwriting and Dramaturgy,12,University of Glasgow,24000,2.1,7,0,0
+1653,Business Administration,12,University of South Wales,14950,2.2,6,0,1
+1654,International Business,12,Brunel University London,27000,2.2,6.5,1,1
+1655,Critical Care,12,University of Liverpool,27800,2.1,0,1,1
+1656,Aeronautical Engineering,12,University of South Wales,15100,2.2,6,1,0
+1657,Psychology of Language,24,University of Dundee,10950,2.2,6.5,0,0
+1658,Social Science Research (Business and Management Studies) - Pre-Master Programme,12,Loughborough University,23280,0,0,0,0
+1659,Integrative Counselling (Top-Up),12,Leeds Beckett University,3500,0,6,1,0
+1660,Welsh and Celtic Studies,12,Cardiff University,22700,0,0,1,0
+1661,Entrepreneurship Management and Innovation,24,University of Bath,4998,2.1,0,0,0
+1662,Long Term Conditions,12,University of Huddersfield,660,2.2,0,0,0
+1663,Biological Sciences,24,University of Bristol,26000,2.1,6.5,0,1
+1664,Events and Experience Management - Pre-Master's Programme,12,ONCAMPUS London,20580,0,5.5,0,0
+1665,Public Health - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,0,1,0
+1666,Economics,12,The University of Exeter,25600,2.1,6.5,0,1
+1667,Executive MBA - Global,24,University of Reading,24750,0,7,1,0
+1668,"Governance, Risk Management and Compliance",12,University of Hertfordshire,15450,2.2,6,1,0
+1669,Biomedical Science,12,London Metropolitan University,18150,2.2,6.5,1,1
+1670,Radiobiology and Radiotherapy,24,University of Liverpool,27800,2.1,0,1,1
+1671,Ethical Hacking and Cyber Security,24,Abertay University,18000,2.2,6,0,1
+1672,Medical Imaging,24,The University of Exeter,24000,2.1,7,0,1
+1673,Legal Practice (SQE1 and 2) - Part-time weekend,24,"The University of Law, SQE",6400,2.2,0,0,1
+1674,Public Relations,12,University of Westminster,17000,2.1,7,1,0
+1675,African Studies,12,SOAS University of London,25320,2.2,6.5,0,0
+1676,Film and Television Production with Producing,12,University of York,29400,2.1,6.5,0,1
+1677,Global Public Health,12,University of Greenwich,17450,2.2,6.5,1,1
+1678,Healthcare Management with Industrial Placement,12,University of Kent,22700,2.2,0,0,0
+1679,Human Rights,24,University of London,4685,2.1,7,1,1
+1680,Disaster Risk and Resilience,12,Coventry University,6200,2.2,6,0,0
+1681,"Architecture, Landscape and Urbanism",12,University of Greenwich,17450,2.2,6.5,0,1
+1682,Endocrinology (Online),24,University of South Wales,9760,0,0,1,0
+1683,TESOL,12,University of Leicester,21400,2.2,6.5,1,1
+1684,Laws,12,The University of Exeter,24300,2.2,6.5,1,1
+1685,Animation,12,University of South Wales,14950,0,6,1,0
+1686,Business Administration (Facilities Management) (Executive),36,Sheffield Hallam University,0,2.2,6.5,1,1
+1687,Medieval History,12,University of St Andrews,25880,2.1,7,0,0
+1688,Digital Arts,12,University of Greenwich,17450,2.2,6.5,0,1
+1689,Health Informatics,36,University of Central Lancashire (UCLan),1000,0,6.5,0,0
+1690,Water Management for Development,36,Loughborough University,24500,2.2,6.5,0,0
+1691,Management and International Business,12,Leeds Beckett University,17500,2.2,6,1,0
+1692,Records Management and Digital Preservation,60,University of Dundee,1080,0,6.5,0,0
+1693,Inclusion (Special Educational Needs),36,University of Birmingham,7770,0,0,0,0
+1694,Obesity and Endocrinology,24,University of Liverpool,27800,2.1,0,0,0
+1695,Civil Engineering,12,University of Bath,31600,1,6.5,0,0
+1696,Cyber Security and Management,12,The University of Law Business School,15850,2.2,6.5,1,1
+1697,Second Language Education,12,University of East Anglia,19800,2.1,0,0,0
+1698,Global Health Care Management,12,Coventry University,18600,2.2,6.5,1,1
+1699,"Law - Health, Law and Society",12,University of Bristol,26700,2.1,0,0,0
+1700,Sports Journalism,12,Sheffield Hallam University,17205,2.2,6.5,1,1
+1701,Management with Business Innovation - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,0
+1702,International Business Law - Full-time (Online),12,The University of Law,11350,2.2,0,1,0
+1703,Pharmacology,24,University of Liverpool,27800,2.1,0,1,1
+1704,Records Management and Digital Preservation,60,University of Dundee,1080,0,6.5,0,0
+1705,Management and International Business,12,Leeds Beckett University,17500,2.2,6,0,1
+1706,Wireless and Microwave Communication Engineering with a Year in Industry,24,Cardiff University,28200,0,0,1,0
+1707,Autonomous Systems,12,University of Plymouth,18000,2.2,6.5,1,1
+1708,Mechanical Engineering with Professional Practice,24,University of Wolverhampton,16450,2.2,6.5,0,0
+1709,Social Research Methods with Applied Statistics - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5,1,1
+1710,Finance (Economics and Finance),12,Durham University,32750,2.1,6.5,0,0
+1711,Advanced Project Management in Construction,12,University of Huddersfield,16000,2.2,6,1,0
+1712,Health and Community Care,12,Leeds Beckett University,17500,2.2,6,1,0
+1713,Comparative and European Private International Law,12,University of Dundee,20900,2.2,6.5,1,0
+1714,Health and Safety,12,Leeds Beckett University,17500,2.2,6,0,1
+1715,Business Analytics,12,Loughborough University,28500,2.2,6.5,1,0
+1716,Information Management,12,Bangor University,18300,2.2,0,0,1
+1717,"Money, Banking and Finance",12,The University of Exeter,31000,2.2,6.5,0,1
+1718,Engineering Management,12,University College Birmingham,14500,0,0,0,0
+1719,Theology and Religion,12,The University of Exeter,24300,2.2,6.5,1,1
+1720,Financial Mathematics,12,University of Liverpool,28000,2.1,0,0,0
+1721,International Commercial Law,12,Bournemouth University,16750,2.2,6.5,0,1
+1722,Communication and Media,24,University of Liverpool,27800,2.1,0,0,1
+1723,International Energy Commerce,12,University of Dundee,20900,2.2,6.5,0,0
+1724,Pre-registration Nursing (Child Health),24,University of Plymouth,19000,2.2,7,0,1
+1725,Strength and Conditioning,12,University of Greenwich,17450,2.2,6.5,0,0
+1726,Interactive Media Practice,12,University of Westminster,17000,2.1,6.5,1,1
+1727,International Commercial Law,12,University of Westminster,17000,2.2,6.5,1,0
+1728,Middle East Politics and Arabic,24,The University of Exeter,24300,2.2,6.5,0,0
+1729,Art Writing,12,The Glasgow School of Art,25000,0,0,0,1
+1730,Product Design Engineering,12,The Glasgow School of Art,25000,0,0,1,0
+1731,Legal Technology - Part-time,8,"The University of Law, Postgraduate programmes",5700,2.2,0,1,1
+1732,Design and Management of Sustainable Built Environments,12,University of Reading,26950,2.2,6.5,1,1
+1733,Social Science Research Methods (International Relations),12,Cardiff University,23200,0,0,0,0
+1734,Comparative Literature,12,SOAS University of London,25320,2.2,6.5,1,1
+1735,Digital Media,12,University of Leeds,0,2.1,0,0,0
+1736,Music,12,Kingston University,19900,2.2,6.5,1,0
+1737,International Hospitality Management,36,University of Derby,4966,2.2,6,1,0
+1738,Creative Writing,12,University of Glasgow,22140,2.1,7,0,0
+1739,Marine Biology,12,Bangor University,21000,2.2,6.5,0,1
+1740,Religious and Theological Studies,12,Cardiff University,24450,2.1,6.5,1,1
+1741,Medical Microbiology with Advanced Research,24,University of Hertfordshire,18950,0,7,0,0
+1742,Financial Mathematics,12,Brunel University London,25000,2.2,6,1,0
+1743,History,12,University of Nottingham,22600,2.1,6.5,1,0
+1744,Education (Mathematics Education),12,University of Bristol,27200,2.1,6.5,1,1
+1745,Information and Technology,12,Leeds Beckett University,17500,2.2,6,0,0
+1746,Sports Events Management,12,Leeds Beckett University,11665,2.2,6,1,0
+1747,Public Health with Extended Placement,24,University of Hertfordshire,18950,2.2,7,0,1
+1748,Electronic and Electrical Engineering,12,University of Portsmouth,19200,2.2,6,0,0
+1749,Education and Development,12,University of East Anglia,21200,2.1,6,1,1
+1750,Real Estate,12,Kingston University,18900,2.1,6.5,1,1
+1751,Human Centred Artificial Intelligence for Games Development,12,Bournemouth University,17500,2.2,0,0,0
+1752,Fine Art,12,University for the Creative Arts,18000,0,0,0,0
+1753,Primary Education (3-7) with Recommendation for Qualified Teacher Status,9,Leeds Beckett University,9250,2.2,6.5,1,0
+1754,Computer Science and Informatics,12,Cardiff University,24450,2.1,6.5,0,0
+1755,English Literature,12,University of Nottingham,22600,2.1,6.5,1,0
+1756,Translation with Business Interpreting (Chinese),12,University of Bath,26500,2.1,7.5,1,1
+1757,Offshore Renewable Energy Engineering,12,University of Plymouth,19800,2.2,6.5,0,0
+1758,Mental Health (Youth-Interdisciplinary),12,University of Birmingham,26280,2.1,6.5,1,1
+1759,Secondary Education (English) with Recommendation for QTS,12,Brunel University London,19430,2.2,7,1,1
+1760,Cyberphysical Systems (2 year),24,University of Nottingham,19067,2.1,6.5,0,1
+1761,Applied Cyber Security with Professional Internship,24,Queen's University Belfast,25800,2.1,6,0,1
+1762,Compliance and Regulation - Full-time,12,"The University of Law, Postgraduate programmes",17000,2.2,0,1,1
+1763,Management,12,University of St Andrews,29950,2.1,7,0,0
+1764,PGCE Secondary,11,University of Nottingham,21500,0,6.5,0,0
+1765,Deaf Education (Teacher of the Deaf Qualification),24,School of Education,0,0,6.5,0,0
+1766,Food Science,12,University of Leeds,32000,2.1,0,0,1
+1767,International Banking and Finance,12,Glasgow Caledonian University,17950,2.2,6,1,0
+1768,International Construction Project Management,12,Glasgow Caledonian University,18800,2.2,0,1,1
+1769,Business Analytics,12,Queen's University Belfast,25800,2.1,6.5,1,0
+1770,International Financial Markets - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5,0,0
+1771,Sustainable Development (Online),24,SOAS University of London,5135,2.2,6.5,0,0
+1772,Film Studies,12,Bangor University,16500,2.1,0,1,0
+1773,Arts and Humanities,12,Queen's University Belfast,21500,2.2,6.5,1,1
+1774,Sport and Exercise Science,12,Hartpury University,18750,2.2,0,0,1
+1775,Architecture (Professional Practice),12,Cardiff University,6450,0,0,1,1
+1776,Career Guidance and Development,12,Edinburgh Napier University,15360,2.2,6,1,0
+1777,Molecular Neuroscience,12,University of Bristol,31300,2.1,6.5,0,0
+1778,Theology,12,The University of Exeter,24300,2.2,6.5,1,1
+1779,Artificial Intelligence,12,University of South Wales,15100,2.2,0,1,1
+1780,Human Resource Management,12,University of Derby,14900,2.2,0,1,1
+1781,Advanced Clinical Practice,36,University of Huddersfield,825,0,6,1,1
+1782,International Tourism Management,18,University College Birmingham,14500,2.2,6,0,1
+1783,"International Development (Conflict, Security and Development) by Distance Learning",24,University of Birmingham,7515,2.2,6.5,1,0
+1784,"Environment, Development and Politics",12,University of Birmingham,25290,2.2,6.5,0,0
+1785,Ancient Cultures,12,University of Glasgow,24000,2.1,7,0,0
+1786,Civil Infrastructure Engineering - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,0,0,0
+1787,Forensic Accounting,12,University of Portsmouth,19200,0,6.5,0,1
+1788,Urban and Rural Planning,36,Leeds Beckett University,0,2.2,6,1,1
+1789,Strategic Sport Marketing,12,Leeds Beckett University,11665,2.2,6.5,0,1
+1790,Renewable Energy Engineering,48,University of Portsmouth,19200,0,6,1,1
+1791,International Human Resource Management - Pre-Master's Programme,9,University of Reading,21600,0,5,1,1
+1792,Classics and Ancient History,12,University of Reading,22350,2.1,6.5,0,0
+1793,Black Humanities,12,University of Bristol,27600,2.1,6.5,1,1
+1794,Railway Safety and Control Systems,14,University of Birmingham,26430,2.1,6.5,1,0
+1795,Healthcare Practice,36,University of Central Lancashire (UCLan),975,2.2,6.5,0,0
+1796,Pharmacy Practice,36,University of Hertfordshire,865,0,6.5,0,0
+1797,Social Science Research Methods (Science and Technology Studies),12,Cardiff University,23200,0,0,0,0
+1798,Accounting and Financial Management,18,University of London,9640,2.1,6.5,0,0
+1799,Design Administration (Distance),24,Cardiff University,28200,2.2,6.5,1,0
+1800,Molecular Biology,12,Coventry University,16950,2.2,6.5,1,1
+1801,Primary Early Years Initial Teacher Education (3-7),12,University of the West of England (UWE Bristol),15850,2.2,6.5,0,0
+1802,National Education (Wales) (English-medium),24,Bangor University,18000,0,6.5,1,1
+1803,Advanced Professional Practice - Distance Learning (Part Time),36,University of East Anglia,21200,2.2,6.5,0,0
+1804,Egyptology,12,University of Liverpool,21850,2.1,0,1,0
+1805,Molecular Biology,12,Coventry University,16950,2.2,6.5,0,0
+1806,Film Production,12,University of Hertfordshire,16450,2.2,6.5,0,1
+1807,Psychology Conversion,12,University of Central Lancashire (UCLan),16900,2.1,6.5,1,0
+1808,Social Research,12,The University of Exeter,23800,2.2,6.5,1,1
+1809,Energy and Electronic Engineering,24,University of Portsmouth,19200,0,6.5,0,1
+1810,Medical Physics,12,University of Glasgow,35640,2.1,6.5,1,0
+1811,Research Methods (Health),12,University of Nottingham,0,2.1,6.5,1,0
+1812,Technology and Education Futures,12,The University of Exeter,24300,2.2,0,1,0
+1813,Sports and Exercise Medicine (Online),24,University of South Wales,10200,0,0,0,0
+1814,International Management - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,1,0
+1815,Interdisciplinary Japanese Studies,12,University of East Anglia,21200,2.1,6,0,1
+1816,Global Shipping Management,12,University of Greenwich,16300,0,6.5,1,1
+1817,Electrical and Electronic Engineering,12,Sheffield Hallam University,17205,0,6,1,1
+1818,Clinical Pharmacy,12,The University of Exeter,27500,2.2,6.5,1,0
+1819,Comparative Literature,24,University of Glasgow,25290,2.1,7,1,1
+1820,"Research Film, Theatre and Television",12,University of Reading,22350,2.1,6.5,1,1
+1821,Music Performance,12,University of Huddersfield,16000,0,6.5,1,0
+1822,Interpreting and Translating (Russian and Italian),12,University of Bath,28300,2.1,7.5,0,1
+1823,Clinical Ophthalmology and Vision Science,12,University of Liverpool,42700,0,0,1,0
+1824,Media and Cultural Policy,12,University of Glasgow,25290,2.1,7,0,0
+1825,Fashion Management - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,0,0
+1826,Disaster Medicine,12,University of Central Lancashire (UCLan),16900,0,6.5,0,1
+1827,Curatorial Practice (Contemporary Art),12,University of Glasgow,22680,2.1,7,0,1
+1828,Social and Public Policy (Online),24,University of York,10200,2.2,6.5,1,0
+1829,Research in Human Geography,12,University of Birmingham,21360,2.1,6,1,0
+1830,Sport and Exercise Biomechanics,12,Leeds Beckett University,11665,2.2,6.5,1,0
+1831,Reproduction and Development,12,University of Bristol,33600,2.1,6.5,1,1
+1832,Laws with Placement Year,24,University of Hertfordshire,17950,2.2,6,0,0
+1833,Music Production and Audio Cultures,12,University of York,29400,2.1,0,1,0
+1834,Biological Data Science,12,University of Dundee,21900,2.1,0,1,0
+1835,International Management - Pre-Master Programme,12,Loughborough University,23280,0,0,0,1
+1836,Medical Education,12,Cardiff University,5900,0,0,0,1
+1837,Computer Science (Online),30,University of Liverpool,6426,2.2,6.5,0,0
+1838,International Financial Analysis,12,University of Glasgow,31860,2.1,6.5,0,0
+1839,Quantity Surveying,12,Sheffield Hallam University,17205,2.2,6,0,0
+1840,Social Work,12,University of Bath,22400,2.1,6.5,0,0
+1841,Post Production Editing,12,Bournemouth University,17000,2.2,6.5,1,0
+1842,Management with Communication (Professional Practice),18,University of Huddersfield,17900,2.1,7,1,1
+1843,Physics,24,University of Portsmouth,19200,0,6.5,1,0
+1844,Sport Business Management,12,Leeds Beckett University,17500,2.2,6.5,1,0
+1845,Advanced Clinical Practice,36,University of York,7967,0,6.5,0,0
+1846,Master of Law (International) - Part-time,24,"The University of Law, Postgraduate programmes",15100,2.2,0,1,1
+1847,Flood Risk Management,12,University of Hull,18000,2.1,6.5,0,0
+1848,Middle Eastern History,12,University of St Andrews,25880,2.1,7,1,1
+1849,Philosophy,12,University of Bristol,20700,2.1,6.5,1,1
+1850,Genomic Medicine (Online),12,The University of Exeter,29700,2.2,6.5,0,1
+1851,International Human Resource Management,12,The University of Exeter,30000,2.2,6.5,0,1
+1852,English Studies,24,The University of Exeter,22600,2.1,7,1,0
+1853,History,12,University of Glasgow,25290,2.1,7,1,0
+1854,Japanese Studies,12,SOAS University of London,25320,2.2,6.5,1,1
+1855,Diagnostic Radiography (Pre-Registration),24,Glasgow Caledonian University,18450,2.1,7,0,1
+1856,Marketing with Industrial Placement,24,University of Kent,22700,2.2,0,1,1
+1857,Digital Engineering Management,12,UCL,37500,2.1,7,0,1
+1858,International Development,12,University of Birmingham,25290,2.2,6.5,1,0
+1859,Architecture Design and Build,12,University of Nottingham,25250,2.1,6.5,0,0
+1860,Master of Business Administration,12,Queen's University Belfast,28000,2.1,6.5,1,1
+1861,Bar Practice Course (BPC) - full-time,8,"The University of Law, Postgraduate programmes",14000,0,7.5,1,0
+1862,Real Estate (Work Experience),24,Sheffield Hallam University,17205,2.2,6.5,1,0
+1863,Food Security,24,University of Liverpool,27800,2.1,0,0,0
+1864,Big Data Analytics (Online),30,University of Liverpool,6426,2.2,6.5,1,0
+1865,Cyber Security with Advanced Research,24,University of Hertfordshire,18950,0,6,0,1
+1866,"Economics, Finance and Banking",12,University of Portsmouth,19200,0,6.5,0,0
+1867,Economics,12,University of East Anglia,21200,2.2,6,1,1
+1868,Special Education Needs Co-Ordination,9,Leeds Beckett University,2750,2.2,6,1,1
+1869,Optoelectronic and Quantum Technologies,12,University of Bristol,34200,0,0,0,0
+1870,Digital Marketing,12,University of Portsmouth,20800,2.2,0,1,0
+1871,Computing Creative Industries - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,0
+1872,Pancreatology,24,University of Liverpool,27800,2.1,0,1,1
+1873,Master of Laws,12,Brunel University London,23000,2.2,6.5,1,0
+1874,Sound Design,12,Leeds Beckett University,17500,2.2,6,0,0
+1875,Applied Human Rights,12,Sheffield Hallam University,16385,2.2,6.5,0,1
+1876,Leadership and Management - Extended,12,University of Wolverhampton,17000,0,6,0,0
+1877,Interior Design,12,London Metropolitan University,18150,2.1,6,0,1
+1878,Periodontology,36,University of Plymouth,8333,0,6.5,1,0
+1879,Law and Society,12,University of Reading,22350,2.1,6.5,0,1
+1880,Research Legal History,12,University of Reading,22350,2.1,6.5,0,0
+1881,Inclusion (SLD-PMLD),36,University of Birmingham,7770,2.2,6.5,1,0
+1882,Creative Writing - Pre-Master's Programme,12,"Birkbeck, University of London",19980,0,5.5,1,0
+1883,Behavioural Economics and Data Science,12,University of East Anglia,21200,2.2,6.5,1,1
+1884,Finance with Industrial Placement,24,University of Kent,20000,2.2,0,1,0
+1885,Music Therapy,36,University of the West of England (UWE Bristol),8100,0,6.5,0,0
+1886,Management - Operations Pathway,12,University of Birmingham,29340,2.1,7,1,1
+1887,Automation Control and Robotics,12,Sheffield Hallam University,17205,0,6,0,0
+1888,English Literature - Renaissance and Eighteenth-Century Literature,12,University of Liverpool,22400,2.1,0,0,0
+1889,Transport Engineering and Planning,12,University of the West of England (UWE Bristol),17250,2.2,6.5,1,0
+1890,Human Resource Management (Global),12,University of Hertfordshire,16450,0,6.5,1,0
+1891,Creative Writing,24,University of Glasgow,25290,2.1,7,1,0
+1892,Finance and Investments (Accounting and Financial Management),18,London School of Business and Finance,8000,2.2,0,1,0
+1893,Finance,24,University of Greenwich,21000,2.2,6,0,0
+1894,Human Rights Law,12,University of Birmingham,24120,0,0,1,0
+1895,Master of Business Administration,12,University of Huddersfield,17900,2.2,6,1,1
+1896,Cyber Security,12,Coventry University,20050,2.2,6.5,0,1
+1897,Computer Science,24,The University of Hertfordshire Online,4500,0,0,1,1
+1898,Clinical Pharmacy Practice (Secondary Care),36,University of Bath,0,0,0,0,1
+1899,Data Science and Statistics Including Placement Year,24,University of Bath,31600,2.1,6.5,1,1
+1900,Psychology in Education,12,University of York,23900,2.1,6.5,1,1
+1901,Health Informatics,12,University of Central Lancashire (UCLan),933,0,6.5,1,1
+1902,Project Management,16,University of Essex Online,6213,0,6.5,1,1
+1903,"Healthcare Management, Leadership and Innovation",12,University of Plymouth,19800,0,6.5,0,0
+1904,Forensic Anthropology,12,University of Dundee,20600,2.1,6.5,1,1
+1905,Leadership of School Mental Health and Wellbeing,12,Leeds Beckett University,2750,2.2,6,1,0
+1906,Sport Marketing,12,Loughborough University,30500,2.1,6.5,1,1
+1907,Pre-Master’s Programme (PMP),12,ONCAMPUS Aston,20370,0,5,1,1
+1908,Palestine Studies,12,The University of Exeter,24300,2.2,6.5,0,1
+1909,Cardiology and Stroke,24,University of Hertfordshire,0,2.2,6.5,1,0
+1910,Interior Design,12,University of Huddersfield,16000,2.2,6,0,0
+1911,Gender and Politics,12,University of Bath,26500,2.1,6.5,0,0
+1912,Electrical Power Engineering,12,Glasgow Caledonian University,17950,2.2,6,0,0
+1913,Art History and Visual Culture,12,Richmond American University in London,15000,2.2,0,0,0
+1914,"Prosperity, Innovation and Entrepreneurship",12,UCL,31100,2.1,7,0,0
+1915,History,12,Coventry University,18600,0,6.5,0,0
+1916,Sport and Exercise Science,12,Leeds Beckett University,11665,2.2,6.5,0,1
+1917,Faith-Based Leadership,24,University of Birmingham,9000,2.1,6.5,0,0
+1918,Entrepreneurship and Innovation Management,12,Loughborough University,30500,2.2,6.5,1,0
+1919,Global Conflict and Cooperation,12,University of Birmingham,24120,2.1,6.5,0,0
+1920,Artificial Intelligence,14,University of Wolverhampton,15950,2.2,6.5,1,1
+1921,Management with International Business (Professional Practice),18,University of Huddersfield,17900,2.1,0,1,1
+1922,Environmental Management,12,Kingston University,15800,2.2,6.5,1,0
+1923,Health and Social Care Leadership,36,Sheffield Hallam University,3303,1,6.5,1,1
+1924,Economics,12,University of Bath,22400,2.1,6.5,0,0
+1925,Historical Archaeology,12,University of York,23900,2.1,6.5,0,1
+1926,Health Research Methods,0,University of Birmingham,23310,2.1,6.5,0,1
+1927,Philosophy and Religion,12,Bangor University,16500,2.2,0,0,1
+1928,"Education: Learning, Pedagogy and Assessment",12,University of East Anglia,21200,2.1,6.5,1,0
+1929,Play Therapy,24,Leeds Beckett University,0,0,6,0,1
+1930,Music Education - Group Teaching and Leadership,12,University of York,23900,2.1,0,0,0
+1931,Design for Cultural Commons,12,London Metropolitan University,5000,2.2,6,1,0
+1932,International Human Rights Law,12,University of Liverpool,22400,2.1,0,1,1
+1933,"Art, Philosophy and Cultural Institutions",12,University of Liverpool,22400,2.1,0,0,0
+1934,Electrical Automotive Engineering,12,Coventry University,21250,2.2,6.5,0,1
+1935,International Human Rights - Full-time,12,"The University of Law, Postgraduate programmes",17000,2.2,0,0,1
+1936,Global Social and Political Thought,12,University of St Andrews,25880,2.1,7,0,0
+1937,Teaching English to Speakers of Other Languages - TESOL (part-time),36,University of Dundee,21900,0,6.5,1,0
+1938,Business Analytics - Pre-Master’s Programme,12,ONCAMPUS Aston,20370,0,5,0,1
+1939,"Environmental Management (Waste, Energy, Water, Oil and Gas)",12,Glasgow Caledonian University,17950,2.2,6,0,0
+1940,Social Innovation,12,Glasgow Caledonian University,15500,2.2,6,1,0
+1941,Secondary Initial Teacher Education English,12,University of the West of England (UWE Bristol),15850,2.2,6.5,0,0
+1942,Theology and Religious Studies,12,University of Glasgow,25290,2.1,7,1,1
+1943,Foundations of Clinical Psychology,12,Bournemouth University,17500,2.1,7,0,1
+1944,Renewable Energy Engineering,12,University of Central Lancashire (UCLan),16900,2.2,6.5,0,0
+1945,Egyptology,12,University of Birmingham,21840,2.1,6.5,1,1
+1946,Childhood and Youth,12,Bangor University,17000,2.2,0,1,0
+1947,Marketing,12,University of Nottingham,28600,2.1,6.5,0,0
+1948,Construction Project Management,24,University of South Wales,15100,2.2,6,0,1
+1949,English by Research,18,University of South Wales,0,2.1,8,0,0
+1950,International Security and Terrorism,12,University of Nottingham,22600,2.1,6.5,0,0
+1951,Management,12,University of Huddersfield,16000,2.2,6,0,0
+1952,Banking and Finance,12,University of Nottingham,30200,2.1,6.5,1,0
+1953,Law General (AMIL) - Part-time,8,"The University of Law, Postgraduate programmes",5700,2.2,0,0,0
+1954,Mathematics with Qualified Teacher Status (QTS),24,Loughborough University,0,1,6.5,0,1
+1955,Diplomacy and International Relations,12,Loughborough University,24500,2.2,6.5,0,1
+1956,Intellectual Property and the Digital Economy,12,University of Glasgow,27090,2.1,7,0,0
+1957,Textile Conservation,24,University of Glasgow,27090,2.1,7,0,1
+1958,Learning and People Development,24,Leeds Beckett University,3500,2.2,6,0,0
+1959,Chinese-English Audiovisual Translation,12,University of Bristol,31300,0,0,1,0
+1960,Advanced Building Performance Engineering,12,University of Nottingham,28600,2.1,6,0,1
+1961,Food Security,12,University of Glasgow,30240,2.1,6.5,1,0
+1962,Arts and Cultural Management,12,Sheffield Hallam University,16385,2.2,6,1,0
+1963,Secondary Education - Physical Education with French,12,University of Wolverhampton,14950,0,6,0,1
+1964,Coastal Engineering,12,University of Plymouth,19800,2.2,6.5,1,1
+1965,History,12,University of Hull,12000,2.2,6.5,1,0
+1966,International and European Electricity Markets,12,University of Dundee,21900,2.2,6.5,0,0
+1967,Healthcare and Medicine,24,The University of Exeter,27500,2.1,7,0,1
+1968,International Tourism Destination Management,12,Edinburgh Napier University,17090,2.2,6,1,1
+1969,Pre-Master's Programme (PMP) - Humanities and Social Sciences,12,ONCAMPUS Southampton,24195,0,5.5,1,0
+1970,Advanced Engineering Management - Construction Management,12,University of Birmingham,29340,2.1,6.5,1,1
+1971,Psychiatry and Applied Psychology,48,University of Nottingham,52500,2.1,7,0,0
+1972,Cancer Medicine,24,University of Liverpool,27800,2.1,0,1,0
+1973,Public International Law,12,Bournemouth University,16750,2.2,6,1,0
+1974,Early Years Teacher Birth to 5 leading to Early Years Teacher Status (EYTS),12,Kingston University,7000,2.2,6.5,0,0
+1975,Agriculture and Rural Development,12,University of East Anglia,21200,2.1,6,1,0
+1976,Design Administration,12,Cardiff University,28200,0,0,0,0
+1977,"Risk, Crisis and Resilience Management",12,University of Portsmouth,17900,0,6.5,1,1
+1978,Journalism and Media Communications with Placement Year,24,University of Hertfordshire,17950,2.2,6.5,0,0
+1979,Digital Business - Pre-Master's Programme (PMP),12,ONCAMPUS Southampton,24195,0,5.5,1,1
+1980,Law and Technology,12,University of Westminster,15000,2.2,6.5,1,0
+1981,Engineering Management with Industrial Practice,24,University of Greenwich,19975,2.2,6.5,0,1
+1982,History by Research,18,University of South Wales,15950,2.1,6,1,0
+1983,Geological and Environmental Hazards,12,University of Portsmouth,19200,2.2,6.5,0,0
+1984,Graphic Design,12,University for the Creative Arts,18000,2.1,6,0,0
+1985,Impact Evaluation for Global Development,12,University of East Anglia,21200,2.1,6,1,0
+1986,Fine Arts,12,London Metropolitan University,18150,2.1,6,0,1
+1987,Policy Research,12,University of Bristol,25000,2.1,6.5,1,1
+1988,History of Ideas - Pre-Master's Programme,12,"Birkbeck, University of London",20580,0,5.5,0,0
+1989,Teaching English to Speakers of Other Languages (TESOL),12,University of East Anglia,21200,2.1,6.5,0,0
+1990,Business Analytics and Big Data,12,University of Liverpool,28500,2.1,0,0,0
+1991,Ancestral Studies,12,University of Glasgow,25290,2.1,7,0,0
+1992,"Security, Conflict and Human Rights",24,University of Bath,22400,2.1,6.5,0,0
+1993,International Commercial Law,12,Coventry University,20050,2.2,6.5,0,0
+1994,Banking and Finance,12,University of St Andrews,29950,2.1,7,1,0
+1995,Advanced Professional Practice (Health and Social Care Professions),12,University of Plymouth,19000,2.2,6.5,1,0
+1996,Advanced Chemical Engineering with Healthcare Technology,12,University of Birmingham,29340,2.1,6,0,0
+1997,Engineering (Learning at Work),0,University of Portsmouth,12000,0,6,0,1
+1998,Data Analytics for Government,36,University of Glasgow,5000,2.1,6.5,1,1
+1999,Biomedical and Analytical Science,12,University of Huddersfield,17000,2.2,6,1,1
+2000,Healthcare Management,18,Learna,5920,2.1,0,0,1

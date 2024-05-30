@@ -1,0 +1,1 @@
+To start Python, first open your terminal or command prompt. Then type python, leave a space, and after that, type run.py, and press Enter. This command will run the file named run.py.
